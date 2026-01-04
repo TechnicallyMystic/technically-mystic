@@ -1,9 +1,13 @@
-[God is a Cosmic Masochist—A Meditation on Numbing](https://technicallymystic.com/p/god-is-a-cosmic-masochista-meditation)
+# [God is a Cosmic Masochist—A Meditation on Numbing](https://technicallymystic.com/p/god-is-a-cosmic-masochista-meditation)
+
 Subtitle: [Level 1: Transitional] I would have rather felt nothing—until a question changed everything
+
 Posted: Dec 20, 2025
 
 ---
+
 After a particularly rough Monday, I had an irreverent thought:
+
 > *"Theory: God is a masochist.
 > Evidence: Literally split "Himself" into separate entities (all existing form) just to feel (know) "Himself".
 > That's the cosmic equivalent of chopping your fingers and limbs off just to feel pain.
@@ -38,10 +42,12 @@ Maybe it was at church—"Stop fidgeting during the sermon."
 Maybe it was at school—"Hands to yourself. Eyes forward. Don't speak unless called on."
 Maybe it was the dinner table—"Children should be seen, not heard."
 We learned that our natural exuberance was:
+
 - too loud
 - too much
 - inappropriate
 - wrong
+
 So we learned to stop feeling it--not because we *chose* to, but because we had to survive.
 
 Containment and obedience were etched into us blow by blow from the hammer of discipline.
@@ -65,6 +71,7 @@ If and when we EVER feel physically and emotionally safe to process these suppre
 
 ## Anesthesia for psychological wounds 
 So instead of healing it (by feeling it), we numb it:
+
 - chemical numbing (e.g. drugs, alcohol)
 - externalizing the attention (e.g. screens, socializing)
 - overriding the feelings internally (e.g. excessive porn usage)
@@ -80,6 +87,7 @@ And you have to keep showing up. Not turning away. Enduring. Persisting. Choosin
 ## So how do we heal?
 
 ---
+
 *Edit: I added the footnotes AFTER I published the post because I realized I still had an unanswered question: Why was it an ocean of milk? I then realized… the realization I had about the mythos unfolding in you during meditation wasn’t a mere hunch… it was [**scriptural**](https://en.wikipedia.org/wiki/Shvetashvatara_Upanishad)**.***
 
 ---
@@ -87,6 +95,7 @@ And you have to keep showing up. Not turning away. Enduring. Persisting. Choosin
 There is an ancient Hindu story referred to as Samudra Manthana[1], "The Churning of the Ocean (of Milk)[2]". I referenced this towards the end of my early post on [Burnout in Tech](https://technicallymystic.com/p/the-engineer-is-smoking-a-survival).
 
 ![](https://substackcdn.com/image/fetch/$s_!jHvn!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20d448ee-2aa6-4eec-ab4e-f7f09b34eae5_999x621.jpeg)
+
 The asuras (left) and devas (right) churn the Ocean of Milk.
 
 In the [story](https://en.wikipedia.org/wiki/Samudra_Manthana#Legend), the *devas* (gods) in an alliance set out to retrieve the nectar of everlasting-life at the bottom of the ocean: [*amrita*](https://en.wikipedia.org/wiki/Amrita). They plotted to churn the ocean to reach the depths to do so. The *asuras* (demons) assisted in the alliance (but were betrayed at the end).

@@ -1,5 +1,7 @@
-[When Being Becomes Doing, NOT the Other Way Around](https://technicallymystic.com/p/when-being-becomes-doing-not-the)
+# [When Being Becomes Doing, NOT the Other Way Around](https://technicallymystic.com/p/when-being-becomes-doing-not-the)
+
 Subtitle: [Level 2: Mystical] What if the ancient texts were field reports, not instruction manuals?
+
 Posted: Dec 3, 2025
 
 ---
@@ -42,6 +44,7 @@ The insight:
 Or, more precisely: **Techniques are signs of awakening.**
 
 If you've ever tried a technique that:
+
 1. Didn't work (no matter how "correctly" you did it)
 2. Worked once, then never again (especially after you expected it to)
 
@@ -54,23 +57,33 @@ I'll recount some of the relevant ones where I realized that this was INDEED a t
 
 ## Becoming symptomatic
 Here are some of the cases I caught myself exhibiting the mystical side of traditions and cultures *I've never read sacred text for when I first starting experiencing them*:
+
 **1. The "Lock" for Insomnia (Yoga / Ayurveda)**
+
 - **Symptom:** On January 9, 2025, after weeks of complaining about terrible sleep, I sat to meditate. Spontaneously, my hands collapsed into a complex shape I had never formed before—thumbs tucked in, fingers curled.
 - **Discovery:** I looked it up immediately after. It was the **Shakti Mudra**—specifically documented in Ayurveda as the mudra to cure sleeplessness. I didn't "do" the mudra; my body did it _to_ me.
+
 **2. The Howl of the Soul (Kashmir Shaivism / Tantra)**
+
 - **Symptom:** Twice in late 2024, I journaled about a specific, visceral sound rising from my chest.
   > *"I can't sleep. My heart keeps me awake at night like a newborn crying for his Father. I cannot soothe him. I audibly heard his cries and slept through them 8 nights ago and now I can no longer audibly hear him, yet I cannot sleep now.*
 	  *> I find myself sitting outside before sunrise now, waiting for this too to pass.*
 	  *> My soul howls for You, more piercing than a wolf's to the moon. My mind trembles at its wailing cries that shake the very night sky."* (Journal Entry, September 17, 2024)
 	  > "*I don't want to resort to these measures, but the pain from the unquenchable thirst grows every day. I can feel my heart howling like a wolf at the moon.*" (Journal Entry, November 9, 2024)
 - **Discovery:** On March 8th 2025, I read the _Vijnana Bhairava Tantra_. It describes the "State of Bhairava" where consciousness, pinning for union, "lets out a loud wail or howl, similar to the howling of a dog... This is why the vehicle of Bhairava is a dog."
+
 **3. The Ghosting (Christian Mysticism)**
+
 - **Symptom:** In Spring 2025, I entered a period where God felt utterly absent. I wrote on July 24, 2025 "I feel like I've been exiled... You left me at the altar. How can I trust You?". See also my post where I first call this "The Ghosting": https://technicallymystic.com/p/why-does-meditation-suddenly-suck
 - **Discovery:** On August 27th, 2025, I finally read St. John of the Cross (16th century mystic) and realized I was checking every single box for the "Dark Night of the Senses" and some of "Dark Night of the Spirit" from *Dark Night of the Soul* —a necessary purification phase, not a failure.
+
 **4. The "Burning" Longing (Sufism)**
+
 - **Symptom:** In my chest I felt a "gnawing reaching," an active, burning fire of missing someone I had never met. See the *Desert Worm* poem from January 18, 2025 in my "Level 2: Mystical" section: https://technicallymystic.com/p/desert-worm-3a1
 - **Discovery:** On July 28, 2025, I stumbled upon the Sufi concept of **Shawq** (intense longing, recorded in my journals and referred to as "Sehnsucht"... which I found out later C.S. Lewis used in this exact meaning). In Sufism, this is considered the very mechanism that burns away the ego to make room for the Divine.
-- **5. The Thymus Chakra (Hridaya Yoga)**
+
+**5. The Thymus Chakra (Hridaya Yoga)**
+
 -  **Symptom:** During practice, I kept feeling a distinct soreness and heat in the upper chest, specifically the thymus area, not the physical heart.
 - **Discovery:** On June 12, 2025, I looked it up and found references to the _Thymus Chakra_ (or Higher Heart), often associated with the color turquoise (my favorite color), spiritual love, mystical communion, and God as teacher, Sacred Lover, beloved.
 
@@ -121,6 +134,7 @@ If you try a technique from a book and it feels forced or empty—STOP. You're t
 The goal isn't to DO more. The BE more... **by getting out of Your own way.**
 
 ---
+
 ## Meta talk:
 ### Special announcement
 So the Substack currently has 3 levels:
@@ -139,7 +153,8 @@ Mystics Inc.
 
 ### Footnotes
 [1] Figure 1. The “Space Division” Logs: A visualization of the `#HolyShit` tag in my Obsidian Vault, tracking spontaneous mystical symptoms / realizations since I migrated from Logseq. Each node is a field report. Obtained after the first draft of this post was completed.
-![A dark mode screenshot of an Obsidian graph view. A central large node labeled "#HolyShit" is connected by turquoise lines to dozens of smaller white nodes, creating a starburst or galaxy shape against a black background. The surrounding nodes represent dated journal entries and notes, visualizing a cluster of connected data points.](https://substackcdn.com/image/fetch/$s_!xriM!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F405dd8af-8e8a-4d41-917b-186389b941bc_1492x1566.png "A dark mode screenshot of an Obsidian graph view. A central large node labeled \"#HolyShit\" is connected by turquoise lines to dozens of smaller white nodes, creating a starburst or galaxy shape against a black background. The surrounding nodes represent dated journal entries and notes, visualizing a cluster of connected data points.")
+
+![](https://substackcdn.com/image/fetch/$s_!xriM!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F405dd8af-8e8a-4d41-917b-186389b941bc_1492x1566.png "A dark mode screenshot of an Obsidian graph view. A central large node labeled \"#HolyShit\" is connected by turquoise lines to dozens of smaller white nodes, creating a starburst or galaxy shape against a black background. The surrounding nodes represent dated journal entries and notes, visualizing a cluster of connected data points.")
 
 
 [2] Literally as I wrote the above for this section, Someone reminded me I have a document I created (almost exactly a month ago) _**specifically**_ **to record these with more description for easy reference.**

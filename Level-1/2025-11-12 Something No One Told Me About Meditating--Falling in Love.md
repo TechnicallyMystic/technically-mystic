@@ -1,11 +1,15 @@
-[Something No One Told Me About Meditating: Falling In Love](https://technicallymystic.com/p/something-no-one-told-me-about-meditating)
+# [Something No One Told Me About Meditating: Falling In Love](https://technicallymystic.com/p/something-no-one-told-me-about-meditating)
+
 Subtitle: [Level 1: Transitional] How I accidentally stumbled into bhakti through consistent meditation
+
 Posted: Nov 12, 2025
 
 ---
+
 **NOTE**: I originally wrote this May 19th, 2025 for the [HealthyGamer Memberships platform](https://members.healthygamer.gg) for the group of folks on there interested in spirituality and what was fondly referred to by the community as “The Weird Stuff”. Over the next few days be working through my backlog of posts I’ve either made on there or saved in draft and never actually got around to publishing. Anyway, on to the content!
 
 ---
+
 This definitely falls under the “weird stuff” category, so buckle up. I want to share a realization that I had which helped validate some complicated feelings that have been making me question my sanity for the past year and a half as I’ve been meditating daily. I’m not sure how common of an experience this is, but I wanted to bring it up regardless in case it does help someone else.
 
 So last night I had one of those, “OH, that explains a lot” kind of moments. I was going through my YouTube watch later list and ended up stumbling on a meditation channel. I watched a couple videos from it and the teacher was saying [in one of them](https://youtu.be/YfysfpOqu3U?si=9IHvLgTFJUBYVVR2) that one of the secrets of tantric meditation is that as the spiritual journey deeper within continues, a romance unfolds. To quote:

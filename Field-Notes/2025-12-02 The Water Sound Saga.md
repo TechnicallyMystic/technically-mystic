@@ -1,7 +1,9 @@
-**Field Report Update: The Water Sound Saga**
+# **Field Report Update: The Water Sound Saga**
+
 Posted: Dec 2, 2025
 
 ---
+
 Remember last week’s post about the obnoxiously loud water sound effect that inspired my rant on modern yoga culture?
 
 Apparently Someone thought that was *hilarious*.
@@ -9,6 +11,7 @@ Apparently Someone thought that was *hilarious*.
 Because this week? **The Universe doubled down.**
 
 **The Trifecta:**
+
     **Studio theme**: "Flowing with the Element of Water"
     **Playlist**: Every. Single. Track. Had water sounds.
     **The finale**: Mid-savasana, the heater shuts off. Suddenly the water sounds go *surround sound*.

@@ -1,8 +1,11 @@
-[Pissing Into a Serene Lake: A Meditation on Modern Yoga Culture](https://technicallymystic.com/p/pissing-into-a-serene-lake-a-meditation)
+# [Pissing Into a Serene Lake: A Meditation on Modern Yoga Culture](https://technicallymystic.com/p/pissing-into-a-serene-lake-a-meditation)
+
 Subtitle: [Level 0: Technical] How the West turned union with the Divine into exotic stretching with a soundtrack 
+
 Posted: Nov 27, 2025
 
 ---
+
 “Ah yes, the soothing sound of _Pissing Into a Serene Lake_.”
 
 That thought came to me mid-sphinx pose at my Tuesday night yoga class when the most obnoxiously loud water sound effect blared through the studio speakers. It was so loud the instructor had to get up and turn it down.
@@ -14,6 +17,7 @@ That’s when I realized: this is EXACTLY what’s wrong with modern yoga.
 Before I even went to the class, I was doing some yin poses for grounding after my post-work meditation session. During this I was wondering about how yoga in the West got so... sterilized for lack of a better word.
 
 Questions this post seeks to answer (or at least get you wondering):
+
 - Why does yoga class feel so hollow / like spiritual bypassing in Lululemon?
 - What is yoga ACTUALLY supposed to be?
 - How did it get this way?
@@ -82,6 +86,7 @@ It’s helpful to approach this with the understanding that each “branch” th
 Most Westerners think yoga = asanas (physical postures). So let’s start there, even though asana is actually the **third** branch of yoga’s eight-limbed path. We’ll build up from what you know to what got left out in order to appeal to the American mass in the past century.
 
 Here’s a diagram to visually understand the branches:
+
 ![](https://substackcdn.com/image/fetch/$s_!AUa0!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1292410e-ad38-41cf-853a-0bd467318610_495x572.jpeg)
 
 ### 4th Branch: Pranayama
@@ -97,6 +102,7 @@ Conversely, you can get yourself more activated, awake, and stressed if you star
 
 ### 5th Branch: Pratyahara
 Now, when the energy can be directed with the body (asanas) and the breath (pranayama), we have 4 questions to answer:
+
 - _How_ can we concentrate that energy?
 - _Where_ do we concentrate it?
 - _What_ happens when we concentrate it?
@@ -105,6 +111,7 @@ Now, when the energy can be directed with the body (asanas) and the breath (pran
 _Pratyahara_ answers the first.
 
 It means to _withdraw the senses_ (sight, hearing, smell, taste, touch). That means:
+
 - Not focusing on the fake water soundtrack on Spotify
 - Not huffing eucalyptus essential oil pouring out of a $25 Amazon diffuser
 - Not distracted by complicated flows or sweat pouring off your body from the overheated studio
@@ -146,6 +153,7 @@ But now I’m left with the mystery: was it the still small voice or the persona
 
 ## Practical suggestions
 If you feel like yoga class is missing something, _you’re not wrong_. Here’s what to try at home[1](https://technicallymystic.com/p/pissing-into-a-serene-lake-a-meditation#footnote-1-180076590):
+
 1. 3 rounds of sun salutations
 2. 10 minutes of alternate nostril breathing
 3. 20 minutes of seated meditation with eyes closed, no music, quiet environment, focusing on breath or an easy mantra
@@ -156,5 +164,6 @@ Yoga isn’t about touching your toes. It’s about union. And you can’t unite
 So turn off the playlist. Sit in silence… and see what happens.
 
 ---
+
 ## Footnotes
-[1](https://technicallymystic.com/p/pissing-into-a-serene-lake-a-meditation#footnote-anchor-1-180076590) ⚠️ Fair warning**:** If you do this practice consistently for a few months, you might accidentally catapult yourself into what mystics call “The Dark Night of the Soul.” I’m not kidding. See my Level 1 and Level 2 sections on here for what that actually looks like.
+[1](https://technicallymystic.com/p/pissing-into-a-serene-lake-a-meditation#footnote-anchor-1-180076590)  Fair warning**:** If you do this practice consistently for a few months, you might accidentally catapult yourself into what mystics call “The Dark Night of the Soul.” I’m not kidding. See my Level 1 and Level 2 sections on here for what that actually looks like.

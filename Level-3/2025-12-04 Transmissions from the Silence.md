@@ -1,8 +1,11 @@
-[Transmissions from the Silence](https://technicallymystic.com/p/transmissions-from-the-silence)
+# [Transmissions from the Silence](https://technicallymystic.com/p/transmissions-from-the-silence)
+
 Subtitle:[Level 3: Union] I've been keeping a secret. Here it is.
+
 Posted: Dec 04, 2025
 
 ---
+
 ## Intro
 
 For months, I’ve been not quite hearing, but _noticing_ a Voice in my meditations. Not my thoughts. Not my personality. Something deeper. Clearer. More direct.

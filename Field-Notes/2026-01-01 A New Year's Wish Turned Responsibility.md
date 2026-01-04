@@ -1,7 +1,9 @@
-**Field Note: A New Year's Wish Turned Responsibility**
+# **Field Note: A New Year's Wish Turned Responsibility**
+
 Posted: Jan 1, 2026
 
 ---
+
 Now that it's officially the new year, I went upstairs to check a folded-up slip of paper that was waiting for me. I had written it, but didn't know what it said—it was the last survivor of the original 12.
 
 During the winter solstice celebration at my local studio, we were given kits to take home with the candles we had made. The instructions in the kit:
@@ -31,6 +33,8 @@ These were my 12 wishes, 11 of which were consumed by the flame of the candles w
 12. Become a better bridge between the mundane and mystical
 
 Look which one was waiting for me to open it.
+
+![](https://substackcdn.com/image/fetch/$s_!9Aw-!,w_316,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb6d3f697-c560-4a6f-948b-5a8bcf3d6f9c_2963x3935.jpeg)
 
 What's funny is that when I was down to the last two earlier this evening, about to burn one of them, _this one fell into my lap_ when I had both in my hand and was shuffling them around. I burned what remained in my hand. I set the one in my lap aside and came back after midnight to read the surprise.
 

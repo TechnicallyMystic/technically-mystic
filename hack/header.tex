@@ -1,0 +1,29 @@
+% header.tex
+\usepackage{graphicx}
+
+\makeatletter
+% Define hard limit
+\def\maximagewidth{300pt}
+
+\def\maxwidth{
+  % Logic: Check if natural width > hard limit
+  \ifdim\Gin@nat@width>\maximagewidth
+    % If yes, check if hard limit > line width (to prevent margin overflow)
+    \ifdim\maximagewidth>\linewidth
+      \linewidth
+    \else
+      \maximagewidth
+    \fi
+  \else
+    % If natural width < hard limit, still check against line width
+    \ifdim\Gin@nat@width>\linewidth
+      \linewidth
+    \else
+      \Gin@nat@width
+    \fi
+  \fi
+}
+\makeatother
+
+% Apply this logic to the 'width' key for all graphics
+\setkeys{Gin}{width=\maxwidth,keepaspectratio}

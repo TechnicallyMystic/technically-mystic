@@ -1,11 +1,15 @@
-[God Doesn't Accept Resignation Letters](https://technicallymystic.com/p/god-doesnt-accept-resignation-letters)
+# [God Doesn't Accept Resignation Letters](https://technicallymystic.com/p/god-doesnt-accept-resignation-letters)
+
 Subtitle: [Level 2: Mystical] "She who says yes to God... doesn't get to change her mind."
+
 Posted: Nov 20, 2025
 
 ---
+
 It’s my second “official” week on the job and I’ve already tried to resign multiple times.
 
 I’ve tried to resign three times in four days:
+
 - **Tuesday morning:** “Take this as my resignation letter, Co-Founders. Find a Field Reporter that doesn’t have a marriage to blow up.”
 - **Tuesday afternoon**: “Pick a better Field Reporter. I shouldn’t have ordered that stupid fucking mug.”
 - **Wednesday night**: “Hire a different Field Reporter. One that’s not married.”

@@ -1,11 +1,15 @@
-[How Bhakti Chooses You](https://technicallymystic.com/p/how-bhakti-chooses-you)
+# [How Bhakti Chooses You](https://technicallymystic.com/p/how-bhakti-chooses-you)
+
 Subtitle: [Level 2: Mystical] How I accidentally stumbled into bhakti yoga through consistent meditation—and what it taught me about surrender, service, and love
+
 Posted: Nov 13, 2025
 
 ---
+
 **NOTE**: I originally wrote this June 9th, 2025 for the [HealthyGamer Memberships platform](https://members.healthygamer.gg) for the group of folks on there interested in spirituality and what was fondly referred to by the community as “The Weird Stuff”. Over the next few days be working through my backlog of posts I’ve either made on there or saved in draft and never actually got around to publishing. Anyway, on to the content!
 
 ---
+
 Some realizations can only be expressed after you’ve lived them. Here are mine.
 
 The first: the most important thing you can do every day is to say and think constantly (and lovingly!): “How may I serve You?”

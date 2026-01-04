@@ -1,8 +1,11 @@
-[The Mandala I Didn't Mean to Draw](https://technicallymystic.com/p/the-mandala)
+# [The Mandala I Didn't Mean to Draw](https://technicallymystic.com/p/the-mandala)
+
 Subtitle: [Level 1: Transitional] When technical meets mystical (and you forget to bring a compass)
+
 Posted: Nov 16, 2025
 
 ---
+
 I wanted to make something like a logo that felt like it was bridging the mundane and mystical, something that felt distilled the name of this Substack into a simple design. I knew it needed to be encompassed in a circle, showing the wholeness from integration of both.
 
 ## Take 1
@@ -11,6 +14,7 @@ Originally, I was trying to divide the circle down the middle, having the left s
 I set out to sketch the design I had in mind, but as it appeared into physical form, something felt… off.
 
 ![](https://substackcdn.com/image/fetch/$s_!-KmM!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F57b8dd88-60f4-4b64-8f6b-aa6a9b4246de_2911x2985.jpeg)
+
 There does not seem to be any bridging here, just an uncomfortable truce if anything.
 
 The hemispheres were completely disjoint and the design wasn’t at all showing the bridging of the mundane and the mystical. Instead, it felt like jamming two things together that didn’t belong and trying to reconcile them into one shape.

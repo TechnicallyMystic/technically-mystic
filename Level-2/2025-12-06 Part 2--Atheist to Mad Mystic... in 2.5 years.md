@@ -1,8 +1,11 @@
-[Part 2: Atheist to Mad Mystic... in 2.5 Years](https://technicallymystic.com/p/part-2-atheist-to-mad-mystic-in-25)
+# [Part 2: Atheist to Mad Mystic... in 2.5 Years](https://technicallymystic.com/p/part-2-atheist-to-mad-mystic-in-25)
+
 Subtitle: [Level 2: Mystical] How does a skeptical software engineer go from being an atheist to... whatever this is?
+
 Posted: Dec 7, 2025
 
 ---
+
 This is the sequel to [Part 1: When Meditation Stops Being Stress Relief]( https://technicallymystic.com/p/part-1-when-meditation-stops-being).
 This is a report on how I leaped across the spectrum of belief in 4 years. From indifferent to obsessed. From atheist... to mad mystic.
 
@@ -10,7 +13,8 @@ Not through a near-death experience. Not through psychedelics. Not through a psy
 
 Through _daily meditation_. For _burnout_.
 
-![My assistant couldn't believe it either.](https://substackcdn.com/image/fetch/$s_!P-pO!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e148bd8-4a84-417b-b802-a5704f06d78d_4000x3000.jpeg "My assistant couldn't believe it either.")
+![](https://substackcdn.com/image/fetch/$s_!P-pO!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e148bd8-4a84-417b-b802-a5704f06d78d_4000x3000.jpeg "My assistant couldn't believe it either.")
+
 From almost exactly 3 years ago: the 2022 Christmas present I bought for myself. The office chair had been feeling… insufficient.
 
 I didn't plan this. I didn't even want this. But here I am, 3.5 years later, writing love poetry to the Divine by night like some medieval mystic and writing Go by day as a software engineer.
@@ -61,6 +65,7 @@ But I didn't call it love then. I didn't even call it "madness of the mystics". 
 I couldn't tell anyone. Who would believe me? "I meditated for burnout and now I'm suddenly in love with the Ineffable"? I wanted to die of embarrassment.
 
 I kept wondering
+
 - Am I losing my mind?
 - Is this a mystical experience or a mental health crisis?
 - Is my brain fried from stress?

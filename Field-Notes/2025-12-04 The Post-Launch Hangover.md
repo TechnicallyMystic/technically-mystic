@@ -1,7 +1,9 @@
-**Field Report: The Post-Launch Hangover**
+# **Field Report: The Post-Launch Hangover**
+
 Posted: Dec 4, 2025
 
 ---
+
 24 hours after launching the "Space Division," I was sobbing on the floor in my parka.
 
 I had slept less than 5 hours. My assistant (cat from the previous Note) bit me hard enough to draw blood this morning. I snapped at my husband this evening because the fireplace wasn't working and I was cold. I felt completely drained and nothing seemed to help.

@@ -1,8 +1,11 @@
-[Why Does Meditation Suddenly Suck?](https://technicallymystic.com/p/why-does-meditation-suddenly-suck)
+# [Why Does Meditation Suddenly Suck?](https://technicallymystic.com/p/why-does-meditation-suddenly-suck)
+
 Subtitle: [Level 2: Mystical] A survival guide for the bullshit phase where God ghosts you
+
 Posted: Nov 29, 2025
 
 ---
+
 Have you ever spent time daily with someone and accidentally caught feelings for them?
 
 Now imagine that person suddenly stopped showing up to where you were for no reason.
@@ -10,6 +13,7 @@ Now imagine that person suddenly stopped showing up to where you were for no rea
 You can’t get in touch with them. You keep showing up, expecting them to make a return but... nothing.
 
 Days turn into weeks... weeks turn into months. Yet, you can’t stop thinking about this person even though they’re not there. Thoughts plague your mind to the tune of:
+
 - Are they avoiding me?
 - Did I say or do something wrong?
 - Have they moved on in life?
@@ -22,6 +26,7 @@ Tears come unexpectedly when you stop to just breathe, when you lie in bed at ni
 Now imagine: no one else around you has seen this person that you’re missing so viscerally. They were just a nameless background character that blended in with their surroundings like a chameleon. They never existed to those around you, or maybe only peripherally at best. But _you_ noticed them—and you fell in love.
 
 This is what the “Dark Night of the Soul” looks like. Strip away the poetic language, and it’s:
+
 1. God gradually appears over time
 2. You fall in love
 3. God ghosts you
@@ -70,6 +75,7 @@ As days and weeks pass in this dryness, you wonder what you’re missing, what y
 
 ### Phase 3: The spiral
 You feel like this is it and you’ve hit your “level cap” on meditation as a non-renunciate. You’re convinced of one or more of the following:
+
 - This was all your imagination
 - You’re going crazy
 - You need to give up everything in your life and run off to an ashram to go any deeper
@@ -124,6 +130,7 @@ The Dark Night is God asking: **Which is it?**
 These early pleasant experiences are meant _to entice you to start and stick with the practice in the beginning_. However, growing attached to them prevents dissolution into union because for there to be an experience in the first place, there must be a *subject* to experience it.
 
 The experiences are withdrawn to teach:
+
 - **God is not a feeling** (feelings come and go)
 - **God is not an experience** (experiences fade)
 - **God is not a “reward” for meditating “correctly”** (rewards are conditional)
@@ -132,6 +139,7 @@ This isn’t a punishment, but a weaning so that you fall in love with the Giver
 
 ## Advice
 Although I’m still very much in this myself—since the spiritual path is often cyclical rather than linear—here’s what I can share that’s helped:
+
 - **Know that this is supposed to happen.** We’re human. We like pleasant experiences and hate when those are taken away.
 - **Know that you’re not alone.** The Dark Night feels _profoundly_ isolating. You think you’re the only one, that you’re failing, that everyone else is sailing through their practice while you’re drowning. But you’re _not_ alone. Every serious practitioner hits this wall. It’s _universal_ even though it feels like a “you” problem.
 - **Keep showing up anyway**. Even if you feel nothing or think it’s a waste of time because “nothing is happening”. It’s not that nothing is happening, but that instead *you can no longer sense what is happening.*

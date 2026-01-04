@@ -1,7 +1,11 @@
-**Field Note: ⚠️ Containment Breach ⚠️**
+# **Field Note: Containment Breach**
+
 Posted: Dec 30, 2025
 
 ---
+
+![](https://substackcdn.com/image/fetch/$s_!7YFH!,w_559,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe14f2c6b-bd37-4e9d-8342-b2b621d76115_1832x1378.jpeg)
+
 Why do I call it the "messy middle"?
 
 Turns out partially because my field notes are a mess despite my best efforts to organize them.

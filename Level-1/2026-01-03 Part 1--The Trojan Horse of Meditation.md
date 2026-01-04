@@ -1,13 +1,17 @@
-[Part 1: The Trojan Horse of Meditation](https://technicallymystic.com/p/part-1-the-trojan-horse-of-meditation)
+# [Part 1: The Trojan Horse of Meditation](https://technicallymystic.com/p/part-1-the-trojan-horse-of-meditation)
+
 Subtitle: [Level 1: Transitional] No stack trace, just an infinite loop I'm still running
+
 Posted: Jan 3, 2026
 
 ---
+
 I can’t give you a stack trace. The program never crashed. It never terminated.
 
 It’s STILL running, iterating over and over again to the point that I’m finding breadcrumbs left for me **by myself without knowing 3.5 years ago.**
 
-![[6lp8d4.jpg]]
+![](https://substackcdn.com/image/fetch/$s_!Y6ty!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F081cc7d0-6ad2-4872-9d6a-0b36f88959ec_506x500.jpeg)
+
 I apparently created this July 3, 2022—only 3 months into meditation. First I laughed. Now I’m terrified. I thought it was a joke. It was not.
 
 I _was_ going to call this _The Trojan Horse of the Jungian Self._
@@ -22,12 +26,13 @@ That’s it. Not a concept—an innocent practice . I have the literal visual ev
 
 And Dr. K, if you ever read this:
 
-Thanks for everything, and also WHAT THE HELL? I didn’t see “_turning into a mystic”_ in the list of side effects from this. 🫠
+Thanks for everything, and also WHAT THE HELL? I didn’t see “_turning into a mystic”_ in the list of side effects from this.
 
 Anyway, back to the story.
 
 ## The call stack
 Here’s the high-level overview of what went down when, summarized from [When Meditation Stops Being Stress Relief](https://technicallymystic.com/p/part-1-when-meditation-stops-being).
+
 1. **March / April 2022**: HealthyGamer binge to "cope" with feeling lost and aimless at work, daily meditation on the HG Discord starting **April 10**.
 2. Late April 2022: Self-inquiry binge (YouTube, Ramana Maharshi’s _Who am I?_)
 3. **May 10, 2022**: First contact with the mysterious "voice from the depths" exactly one month in.
@@ -109,6 +114,7 @@ I had tabs open on his most popular concepts: _anima_, _psyche_, _persona_, _sha
 I was intrigued enough to grab a copy of his magnum opus, his “most difficult experiment” as he called it—_[The Red Book](https://en.wikipedia.org/wiki/The_Red_Book_\(Jung\))_ [(aka](https://en.wikipedia.org/wiki/The_Red_Book_\(Jung\)) _[Liber Novus](https://en.wikipedia.org/wiki/The_Red_Book_\(Jung\))_[)](https://en.wikipedia.org/wiki/The_Red_Book_\(Jung\)). It was written over the course of 1914 to about 1930. In it, he engages with archetypes like the Self, and, over the course of his “experiment”, realizes they have wills and minds of their own.
 
 ![](https://substackcdn.com/image/fetch/$s_!tM3C!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa6986b54-6a93-4475-8871-f6e07ec3667c_4080x3072.jpeg)
+
 This once was my copy of Jung's book, read cover to cover. I've since gifted it to a family member who recently expressed interest.
 
 He was so appalled by his own findings as he engaged in this experiment that he kept his manuscripts highly secret with the exception of a couple trusted confidants. He refused to publish his work for fear of it being interpreted as “madness” and jeopardizing his reputation as a psychiatrist. His estate eventually cooperated to release his folio manuscript in 2009—almost 80 years after it was completed (and nearly 50 years after his death).

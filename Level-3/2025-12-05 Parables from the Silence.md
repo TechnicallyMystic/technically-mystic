@@ -1,8 +1,11 @@
-[Parables from the Silence](https://technicallymystic.com/p/parables-from-the-silence)
+# [Parables from the Silence](https://technicallymystic.com/p/parables-from-the-silence)
+
 Subtitle: [Level 3: Union] Direct knowing, spoken plainly
+
 Posted: Dec 5, 2025
 
 ---
+
 ## Intro
 These didn't come from thinking, reading, studying, or trying to figure something out.
 

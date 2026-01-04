@@ -1,8 +1,11 @@
-[Desert Worm](https://technicallymystic.com/p/desert-worm-3a1)
+# [Desert Worm](https://technicallymystic.com/p/desert-worm-3a1)
+
 Subtitle: [Level 2: Mystical] On longing for the unreachable
+
 Posted: Nov 13, 2025
 
 ---
+
 Oh how I wish to behold Thee,  
 Not for proof,  
 But for love.

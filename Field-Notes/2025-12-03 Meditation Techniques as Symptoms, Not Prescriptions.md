@@ -1,7 +1,9 @@
-**Field Note: Meditation Techniques as Symptoms, Not Prescriptions**
+# **Field Note: Meditation Techniques as Symptoms, Not Prescriptions**
+
 Posted: Dec 3, 2025
 
 ---
+
 Practice felt empty this morning. No subtle Presence. No sensation in my chest. Yet I sat with it and watched my thoughts about it.
 
 A thought appeared that I used to try a certain technique with the hope it would be the "magic" one that would "work". But suddenly a new thought came:

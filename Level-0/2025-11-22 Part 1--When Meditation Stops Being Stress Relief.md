@@ -1,8 +1,11 @@
-[Part 1: When Meditation Stops Being Stress Relief](https://technicallymystic.com/p/part-1-when-meditation-stops-being)
+# [Part 1: When Meditation Stops Being Stress Relief](https://technicallymystic.com/p/part-1-when-meditation-stops-being)
+
 Subtitle: [Level 0: Technical] What happened when I stopped running from burnout and started turning inward
+
 Posted: Nov 22, 2025
 
 ---
+
 On my [burnout post](https://substack.com/home/post/p-178858554), I mentioned in the P.S. that I would revisit this topic.
 
 This is that post… or at least the first part of it.
@@ -29,6 +32,7 @@ If the mind is such a hostile place when you’re trying to just rest, why would
 Either you’re going to becoming a husk of a person going through the motions of the daily grind, your mind either too overactive or too numb to the point where you can no longer truly see what’s right in front of you. Or... you stop... and maybe even turn around to face the other way.
 
 When you stop running, you realize:
+
 - The next promotion will not bring you the peace.
 - The next trip will not bring you the satisfaction.
 - The next thing will wash right over you.
@@ -63,6 +67,7 @@ This I think was the key. Had I started on my own with some simple guided medita
 While counting the breath or visualizing a soothing scene works for some people, that kind of stuff didn’t land with me. I’d tried some things here and there before (YouTube in college for stress and well as Calm and Headspace at another point), but these helped only in a superficial way.
 
 I joined the HealthyGamer Discord’s meditation channel, interested in the community participation and live guided sessions. I took part in these daily when I could and was introduced to new meditative practices including:
+
 - samatha (calm abiding)
 - metta (loving-kindess)
 - neti-neti (not this, not this)

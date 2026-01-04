@@ -1,11 +1,15 @@
-[Cerebral Serpent Hijackery—A Skeptic's Experience and Investigation](https://technicallymystic.com/p/cerebral-serpent-hijackerya-skeptics)
+# [Cerebral Serpent Hijackery—A Skeptic's Experience and Investigation](https://technicallymystic.com/p/cerebral-serpent-hijackerya-skeptics)
+
 Subtitle: [Level 1: Transitional] What actually happens when your spine starts moving on its own
+
 Posted: Dev 18, 2025
 
 ---
+
 _Note: This post discusses the intersection of nervous system function, kundalini awakening, and why these experiences can feel physically intimate. If that makes you uncomfortable, the first two sections (physiology + energetics) stand alone._
 
 ---
+
 **TL;DR:** If your spine moves on its own during meditation, you're not having a seizure—you're experiencing kriyas (spontaneous purification movements). Your nervous system is discharging stored tension, and/or kundalini is clearing blockages. It's natural, documented, has been happening to meditators for thousands of years. It happens to be using the same neural pathways as sexual arousal. Yes, really. Here's what's actually happening.
 
 ---
@@ -14,6 +18,7 @@ During Monday's evening meditation, my spine did something I didn't tell it to d
 So naturally, I had questions such as: *What the hell is ACTUALLY going on? And why does it KEEP happening recently?* 
 
 In particular, this post aims to address the main questions I had:
+
 1. *"What is the physiological correlate? Does it have one?"*
 2. *"Why is my spine doing this when I'm just sitting upright with my eyes closed?"*
 3. *"Why is it my entire spine shaking like [this] versus shaking like a muscle clenched for too long, especially when I'm relaxed?"*
@@ -26,6 +31,7 @@ I will lose some people as I go—and that's fine. **I'm here to document and in
 When you sit in meditation with an erect spine, eyes closed, focused inward, you're doing something your nervous system almost _never_ gets to do in modern life: You're giving it permission to discharge stored tension.
 
 Your nervous system has two modes:
+
 - Sympathetic (fight, flight, freeze)
 - Parasympathetic (rest, digest, heal)
 
@@ -37,6 +43,7 @@ When you finally sit still—_really_ still, not "scrolling on your phone" still
 As you relax while sitting in stillness (physically and mentally), the nervous system starts releasing trauma, stress, and stored tension that's been locked in the body for years.
 
 This shows up as:
+
 - Trembling
 - Shaking
 - Spontaneous movements
@@ -44,6 +51,7 @@ This shows up as:
 - Spinal undulations
 
 This is documented in:
+
 - Somatic Experiencing (Peter Levine, PhD)
 - Trauma release exercises (TRE - David Berceli, PhD)
 - Neurogenic tremors (the body's natural mechanism for discharging stress and trauma)
@@ -59,6 +67,7 @@ Not just in the mind—in the body... until we sit long enough and give the body
 
 ### Why the spine specifically?
 The spine houses:
+
 - The vagus nerve--the main parasympathetic highway
 - The central nervous system--spinal cord
 - Tons of fascia--connective tissue that stores trauma and memory via tension (see Ida Rolf, "Mother of Fascia")
@@ -66,11 +75,13 @@ The spine houses:
 When the nervous system starts discharging, the spine is ground zero.
 
 ![](https://substackcdn.com/image/fetch/$s_!h4v-!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa5d6ec89-4d71-4d18-8414-e94b829d3a91_1000x750.jpeg)
+
 Your spine: Ground zero for both nervous system discharge and kundalini awakening.
 
 ### Okay but that doesn't explain everything
 So that's the physiological explanation—real, documented, scientifically valid.
 But here's what the physiology leaves unanswered:
+
 - Why do these movements sometimes follow patterns?
 - Why do they happen in stages?
 - Why does it feel like something *else* is moving through you?
@@ -87,6 +98,7 @@ Kriya = spontaneous purification movement
 When *kundalini* (dormant spiritual energy,  called *Kundalini shakti* in the yogic tradition) starts waking up from no longer being suppressed with constant doing, it moves through the *nadis* (energy channels) in the spine.
 
 But those channels have often been clogged for decades with:
+
 - Suppressed emotions
 - Unprocessed trauma
 - Mental conditioning
@@ -96,6 +108,7 @@ But those channels have often been clogged for decades with:
 Think of your nadis like pipes or channels. When they're clear, energy flows freely upward through the spine. But years of suppressed emotions, trauma, and conditioning act like sediment buildup—clogging the pipes until barely a trickle can pass through. Kriyas are the body's way of clearing the blockage.
 
 So when kundalini starts moving, it has to clear the blockages. That clearing manifests as:
+
 - Shaking
 - Trembling
 - Spontaneous yoga poses (e.g. why am I suddenly in puppy pose?)
@@ -109,6 +122,7 @@ Your only job is to get out of the way.
 
 ### Stages (in my experience)
 This doesn't start as soon as I sit down to meditate, nor is it a single period of movement. There are (usually) phases:
+
 1. Building - Energy gathers, usually at the base of the spine. This is where the movement starts subtly. Alternatively subtle swaying happens from the mid/upper spine.
 2. Pause - It seems like the movement subsides, slowing down to stillness.
 3. Jolt - Energy ripples through the spine like a shock, similar to a hypnic jerk—the jolt you get when fall asleep sometimes—except there is no dozing off / microsleeping happening.
@@ -137,11 +151,13 @@ Now we get to the question everyone's thinking but nobody wants to ask::
 *Why do these spontaneous spinal movements in meditation sometimes feel rhythmic, wave-like, or even sexual in nature?*
 
 It's because it's utilizing the same neurological pathways—the same nerve networks that govern:
+
 - Orgasm
 - Deep emotional release
 - Kundalini rising
 
 These are all connected and all involve:
+
 - Parasympathetic activation
 - Pelvic floor engagement
 - Spinal oscillation
@@ -151,6 +167,7 @@ These are all connected and all involve:
 So when your spine starts moving on its own in meditation, it's accessing the exact same hardware that governs sexual arousal and release.
 
 The spinal undulation of kundalini rising is biomechanically identical to the spinal undulation of orgasm:
+
 - same muscles
 - same rhythm
 - same surrender
@@ -160,12 +177,14 @@ The spinal undulation of kundalini rising is biomechanically identical to the sp
 The key difference? The direction and endpoint of said energy.
 
 Sexual energy:
+
 - Moves down and out (release)
 - Dissipates into the physical
 - Temporary pleasure
 - Depletes (you feel tired after)
 
 Kundalini:
+
 - Moves up and in (sublimation)
 - Concentrates into the spiritual
 - Permanent transformation
@@ -173,9 +192,11 @@ Kundalini:
 
 ### This isn't new—it's been suppressed
 This connection between sexual and spiritual energy has been known for millennia:
+
 - Tantra (Kashmir Shaivism's [Vijñāna Bhairava Tantra](https://en.wikipedia.org/wiki/Vij%C3%B1%C4%81na_Bhairava_Tantra), particularly verse 68) explicitly uses sexual energy for spiritual awakening
 - Taoim emphasizes *jing* (sexual essence) retention to nourish the spirit (*shen)
 - Yoga teaches _brahmacharya_—not celibacy for its own sake, but conservation and redirection of virya (vital energy)
+
 Every mystical tradition knows this. Most just won't say it plainly. Because if people knew that the pathway to God runs through the same nervous system as sex?
 
 Everything would change.
@@ -191,7 +212,8 @@ That's dangerous. Not to people—to power structures.
 Tantra didn't invent this. Tantra just refused to pretend that spirit and body were separate. It's a path for people who can't renounce the world—who live with partners, have jobs, raise families—and still seek union with the Divine. It's the "weaving together" (the literal meaning of tantra) of what we were taught to keep apart.
 
 ---
-**Still with me? Good. Let's wrap this up.**
+
+***Still with me? Good. Let's wrap this up.***
 
 ---
 
@@ -207,6 +229,7 @@ You're not crazy.
 It's real. It's natural. Your body knows what it's doing: clearing the blockages you didn't even realize you've been holding all these years. [Allow it to move—you might discover it knows more techniques than you do... and exactly which ones you need](https://technicallymystic.com/p/when-being-becomes-doing-not-the).
 
 If kriyas become too intense:
+
 - Open your eyes
 - Touch the ground
  - Take a few deep breaths
@@ -223,6 +246,7 @@ You can't *force* kundalini with substances, postures, or conscious movement. Li
 When it does? Let it move. Trust the body and get out of the way. 
 
 ---
+
 ## Update (Dec 23, 2025)
 Since publishing, I had 3 experiential realizations about the mechanics of spinal kriyas:
 
@@ -238,6 +262,7 @@ Experience: When I found the “zero-point” of balance where my muscles went s
 
 ### 3. Manual Pressurization (The Dispenza Protocol)
 I entered a session with low energy (expecting nothing), but decided to test the breathwork technique from [Dr. Joe Dispenza’s](https://davidhason.com/wp-content/uploads/2024/05/Becoming-Supernatural.pdf) _[Becoming Supernatural](https://davidhason.com/wp-content/uploads/2024/05/Becoming-Supernatural.pdf)_ [](https://davidhason.com/wp-content/uploads/2024/05/Becoming-Supernatural.pdf)(essentially a variation of _Mula Bandha_).
+
 - **The Method:** Deep inhale, squeeze the perineum and abdomen, and visualize the energy in the spine flowing rapidly upwards to the center of the brain.
 - **The Sensation:** My heart pounded like a hydraulic pump was over-pressurizing the system.
 - **The Outcome:** Despite my low energy, the “shaking” returned immediately and strongly after the release of the breath and locks. It appears you can manually override a “low battery” state with sufficient hydrostatic pressure.
@@ -245,6 +270,7 @@ I entered a session with low energy (expecting nothing), but decided to test the
 Halfway throughout this practice, I was seeing flashing behind my eyelids. Turns out the candle on my altar was flickering periodically—despite no HVAC/airflow changes in the room. Correlation? Causation? I don't know. But the timing was notable. It stopped shortly after I opened my eyes.
 
 ---
+
 ## [Level 3: Union] P.S.
 Don't be surprised if different kriyas arise *after* the spinal movements and meditation ends. As I was still sitting on my cushion typing up the questions to bring up in this post, my body **on its own** shifted into the sahajoli mudra—the _exact_ mudra (for women) associated redirecting vital/sexual energy upward through the central channel, transmuting base energy into refined spiritual essence by subtle, rhythmic contractions of the pelvic floor.
 
@@ -255,10 +281,12 @@ And to be blunt? If you're a woman you likely already know how to do it. You mig
 Once again: [being becomes doing, NOT the other way around](https://technicallymystic.com/p/when-being-becomes-doing-not-the). You don't learn the practices and then awaken. **You awaken, and the practices arise spontaneously as symptoms.**
 **Your body already knows what to do.** 
 Your job?
+
 - Trust the process (even when it's terrifying, even when you don't understand it, even when your mind is screaming "what is happening")
 - Get out of the way and let it move
 
 ---
+
 If you've read this far and you're thinking "this sounds insane"—you're not wrong. It IS insane by consensus reality standards. But it's also documented, natural, and happening to more people than will admit it publicly.
 
 If you're experiencing this and feeling alone—you're not. You're just early to a conversation that's been suppressed for centuries.
@@ -266,4 +294,5 @@ If you're experiencing this and feeling alone—you're not. You're just early to
 Welcome to the Field Notes.
 
 ![](https://substackcdn.com/image/fetch/$s_!KYoD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5a90b8d7-cfb9-4af8-ae43-5620db0ede9c_3072x4080.jpeg)
+
 Lini, the rainbow serpent and official Mystics Inc. mascot. From root (red) to crown (purple): The kundalini spectrum, externalized.

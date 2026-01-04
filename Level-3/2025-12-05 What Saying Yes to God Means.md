@@ -1,8 +1,11 @@
-[What Saying Yes to God Means](https://technicallymystic.com/p/what-saying-yes-to-god-means)
+# [What Saying Yes to God Means](https://technicallymystic.com/p/what-saying-yes-to-god-means)
+
 Subtitle: [Level 3: Union] I couldn't read the fine print... at the time
+
 Posted: Dec 5, 2025
 
 ---
+
 During evening meditation yesterday, I "saw" purple fire behind my closed eyelids, encircling me. I was urged to share more Level 3 content. The message was: *"It helps no one if you hold it back."*
 
 This post captures what I understood from my meditation.
@@ -16,6 +19,7 @@ So it reaches the communication center, the nexus of energies governing speech, 
 
 ## You are compelled to speak (for now)
 But the manner in which you see the world directly impacts _how_ you speak about Him.
+
 - When you're ruled by the small self—the ego—you speak of Him as a tyrannical King, a condemning Judge.
     > _**"The ego will do anything to maintain control."**_ — (Hypnagogic vision, May 2013)
 - When you're surrendered to the higher Self—God—you speak of Him as your Beloved.

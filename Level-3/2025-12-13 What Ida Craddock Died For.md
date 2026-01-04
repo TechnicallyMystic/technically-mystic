@@ -1,13 +1,17 @@
-[What Ida Craddock Died For](https://technicallymystic.com/p/what-ida-craddock-died-for)
+# [What Ida Craddock Died For](https://technicallymystic.com/p/what-ida-craddock-died-for)
+
 Subtitle: [Level 3: Union] The woman who died for the secret of Yoga
+
 Posted: Dec 13, 2025
 
 ---
+
 Content Warning: This section discusses sacred sexuality, erotic mysticism, and the integration of sexual and spiritual energy.
 
 If you’re not ready for that, maybe save it for later. But if you’ve ever been feeling confused about why your meditations have started feeling more like a sacred rendezvous, this might explain why.
 
 ---
+
 I first discovered experientially that sexual and spiritual energy are one about 2 years ago. I only got the confirmation this year.
 
 I was HORRIFIED, thinking something was wrong with me when I started falling in love so deeply with the Divine. I became so intimate with the Ineffable that in November 2023—2 years ago at this point—I had my first feelings of eros while in meditation, of feeling yearning with my heart, my soul, AND my body.
@@ -15,6 +19,7 @@ I was HORRIFIED, thinking something was wrong with me when I started falling in 
 I tried to find ANYTHING about it online and found nothing talking about this except practices outside of anything familiar to my Western mind.
 
 I read about
+
 - Sufism's *ishq* (the intense fire of passionate love for the Beloved) and *shawq* (the intense magnetism of longing / yearning for the Beloved)
 - Bhakti yoga
 - Tantric union
@@ -30,6 +35,7 @@ She had the same realization I stumbled upon for myself just MEDITATING on my ow
 And she died for having the courage to proclaim it aloud.
 
 ## Who was Ida Craddock?
+
 ![Portrait of Ida Craddock](https://substackcdn.com/image/fetch/$s_!z9zS!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a583d98-4a3f-4b70-a336-3e24ea7d1594_441x542.jpeg "Portrait of Ida Craddock")
 
 I didn’t think much of Ida’s name when it first appeared in a timeline of yoga history.
@@ -54,6 +60,7 @@ At my age (I was forty-five this last August) confinement under the rigors of pr
 > I beg of you, for your own sakes, and for the future happiness of the young people who are dear to you, to protect my little book, "Right Marital Living."
 
 To summarize, Ida Craddock taught that:
+
 - God was the third partner in sexual union
 - sexual energy could be transformed into spiritual realization
 - the body wasn't sinful—it was sacred
@@ -122,6 +129,7 @@ If you’ve wondered whether you’re going crazy, whether this is “appropriat
 **You're not the first.**
 
 I once thought I was. Then I found out recently that this is a documented phenomenon across every mystical tradition:
+
 - Rumi's poetry about "The Beloved" (explicitly erotic)
 - Mirabai dancing for Krishna as a lover
 - Teresa of Ávila's "Transverberation" (look at the "Ecstasy of Saint Teresa" statue in Rome)
@@ -141,6 +149,7 @@ This isn't projection. This isn't repression. This isn't fetish.
 And it was suppressed—violently, systematically, across cultures—because it’s dangerous. Not to people—but to power structures.
 
 Because if people discover they can access the Divine _directly_—through their own bodies, through their own practice, through union with their beloved, they don't need:
+
 - intermediaries
 - to be told they're sinful
 - salvation from external authorities

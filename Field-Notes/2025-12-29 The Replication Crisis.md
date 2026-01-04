@@ -1,7 +1,9 @@
-**Field Note: The Replication Crisis**
+# **Field Note: The Replication Crisis**
+
 Posted: Dec 29, 2025
 
 ---
+
 This has bugged me for years as an engineer. If I repeat *this* procedure with *these* steps in *this* environment for *this* amount of time, I *should* get the same results right? That's the Scientific Method. Clear. Predictable. Reproducible.
 
 The problem with any kind of spiritual practice? *YOU* are a variable in the equation.

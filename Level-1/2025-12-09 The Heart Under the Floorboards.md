@@ -1,8 +1,11 @@
-[The Heart Under the Floorboards](https://technicallymystic.com/p/the-heart-under-the-floorboards)
+# [The Heart Under the Floorboards](https://technicallymystic.com/p/the-heart-under-the-floorboards)
+
 Subtitle: [Level 1: Transitional] Vulnerability is terrifying, so why am I here writing?
+
 Posted: Dec 9, 2025
 
 ---
+
 I'm crying while writing this. Not from a bad day or anything like that.
 
 It's because I need to write. And nothing's coming today.
@@ -21,11 +24,13 @@ I had a recent realization that I covered in ["What Saying Yes to God Means" (Le
 But what I'm still unclear on is: *why*? And *why now* (as my supportive, but understandably confused spouse was asking)?
 
 I don't know if it's a factor of:
+
 - no community (sangha) to exchange my evolving ideas with (do I dare try my luck with Reddit?)
 - my experience deepening to a point that I can no longer just brush it off as a casual hobby (it was SO hard to just jump right into morning standup after something as mind-bending as the realization I had in ["When Being Becomes Doing, NOT the Other Way Around"](https://technicallymystic.com/p/when-being-becomes-doing-not-the) hit me right beforehand)
 - a genuine growing desire to want to share something in the chance that it's useful to someone else who's struggling
 
 Or is the answer to why and why now something more... insidious?
+
 - the spiritualized ego trying to distract me from *being* with more *doing* (HMMM... this one honestly deserves its own follow-up post)
 - trying to make my spiritual journey meaningful outside of my own life by making it my "duty" to share
 - something I still don't have the awareness to realize because the ego is REALLY GOOD at self-preservation
@@ -47,6 +52,7 @@ The day I finally broke and came out of the "mystic's closet" to my spouse, I wr
 *"I don't feel like I can be myself around you anymore. Not because you've changed, but because I have... and I know there's no way to explain that will make you understand. When we made our vows, I kept nothing hidden from you. But a year later when I started turning inwards and digging into my own depths, I found things I didn't know how to translate into words... and it's only grown the deeper I've looked. And here I am 3.5 years later, feeling like I'm being **torn in half** by something even I don't understand, my soul screaming for more than I had ever planned at the start of this partnership. It feels like a betrayal and it breaks my heart because there's nothing I hate more than lying. But now I'm lying to both myself and you and it's killing me slowly every day."* (November 20, 2025)
 
 There were also several other prior entries lamenting this struggle:
+
 - > *...I feel like trying to straddle these two worlds is how I am **torn in half.*** (Journal Entry, June 23, 2025)
 - > *I'm really struggling to integrate between the two worlds and feel like I'm getting **torn in half** as a result. It feels incredibly discouraging to be having such strange and deep experiences, feelings, and sensation during meditation and then feeling exhausted, frustrated, and tired at work and in my daily life in general. I know I shouldn't have to escape to an ashram to pursue this interest deeper, but God I really wish I could. Yet, I can't help but wonder if I'm just chasing something else again like I chased this current life that I once so aspired and dreamed of having. My life on paper is amazing and yet now here I am pursuing the Ineffable and ready to abandon all these wonderful things I have after 30 years. I feel like a fool.* (Journal Entry, June 12, 2025)
 - > *It's all so much and I don't feel like I'm doing enough AND I have to juggle my job and my marriage. I felt like I was getting **torn in half** between worlds. I felt like something inside me was screaming to do MORE, MORE, **MORE!!!** But then... it dawned on me. My ego was hijacking this whole pursuit. It was trying to overwhelm me, burn me out, and make me give up.

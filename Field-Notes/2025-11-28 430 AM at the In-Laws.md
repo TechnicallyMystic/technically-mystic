@@ -1,7 +1,9 @@
-**Field Note: 4:30 AM at the In-Laws**
+# **Field Note: 4:30 AM at the In-Laws**
+
 Posted: Nov 28, 2025
 
 ---
+
 What does modern mysticism look like?
 
 I don't know.

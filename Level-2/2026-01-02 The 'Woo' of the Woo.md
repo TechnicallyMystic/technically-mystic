@@ -1,8 +1,11 @@
-[The 'Woo' of the Woo](https://technicallymystic.com/p/the-woo-of-the-woo)
+# [The 'Woo' of the Woo](https://technicallymystic.com/p/the-woo-of-the-woo)
+
 Subtitle: [Level 2: Mystical] It's not what you think it is
+
 Posted: Jan 2, 2026
 
 ---
+
 I'm not sure if this is a Substack Note or a Substack Post (revised from this morning):
 **The 'Woo' of the woo**
 This morning as I was sitting in my basement next to the boiler for heat while drinking my coffee, I was feeling a different kind of warmth within myself. It's a difficult-to-articulate tingling warmth radiating through my being like sunlight on my skin, but emanating from the cells themselves.

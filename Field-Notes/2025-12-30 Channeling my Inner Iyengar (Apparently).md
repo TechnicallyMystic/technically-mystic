@@ -1,7 +1,9 @@
-**Field Note: Channeling my Inner Iyengar (Apparently)**
+# **Field Note: Channeling my Inner Iyengar (Apparently)**
+
 Posted: Dec 30, 2025
 
 ---
+
 So it happened again.
 
 I tried something in meditation and for yin poses at home and it worked _too_ well. I was so amazed I thought, "Okay this HAS to be a thing right? Why haven't I heard of it before?"
@@ -37,3 +39,5 @@ _That's the practice._
 Has your body ever “invented” a technique that you later found out was a real thing?
 
 #TechnicallyMystic #FieldNotes #Yoga #WeightedProps #SomaticWisdom
+
+![](https://substackcdn.com/image/fetch/$s_!UbyZ!,w_359,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8065548-70ee-45fb-92c3-d30f60603f58_3072x3592.jpeg)

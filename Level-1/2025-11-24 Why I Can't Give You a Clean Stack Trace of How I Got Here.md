@@ -1,8 +1,11 @@
-[Why I Can't Give You a Clean Stack Trace of How I Got Here](https://technicallymystic.com/p/why-i-cant-give-you-a-clean-stack)
+# [Why I Can't Give You a Clean Stack Trace of How I Got Here](https://technicallymystic.com/p/why-i-cant-give-you-a-clean-stack)
+
 Subtitle: [Level 1: Transitional] I tried to debug my own spiritual awakening (it didn't work)
+
 Posted: Nov 24, 2025
 
 ---
+
 I've spent the past couple days trying to write Part 2 of "[When Meditation Stops Being Stress Relief](https://technicallymystic.com/p/part-1-when-meditation-stops-being)." I originally thought I just needed to dig through my journals to find the next strange occurrence after that vivid dream in December 2022 and summarize that arc.
 
 It sounded fairly straightforward. All I had to do was look back at my own field notes, the documentation that I had been recording along the way like a breadcrumb trail. I knew I had even tried to add specific emojis at the top of "important" entries as I went (with a legend to decode what they meant) for when I assumed I would want to reference them again in the future.
@@ -20,6 +23,7 @@ As much as I want to treat my brain as a computer to debug, I can't. Real life i
 
 ## What I did find
 As a headache formed from hours of digging through journals and cross-linked files, I found:
+
 - A disclaimer at the top of the main page: "I believe I generally present as a mostly sane person. This is a page dedicated to my secret insanity. Like Jung's Black Books I've been keeping this closely guarded out of sheer terror of being misunderstood or seen as nuts." Also: "There will be shit in here that makes absolutely no sense" (yeah, no shit), and "I don't literally hear voices for the 'dialogues'."
 - Pages of arguing with myself (or something that felt increasingly NOT like my usual self)
 - Some variation of "am I going crazy" sprinkled in throughout the months (including wondering if I accidentally made a tulpa)
