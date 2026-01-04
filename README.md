@@ -2,6 +2,8 @@
 
 **Field Notes from the Double Life.**
 
+<img src="https://substackcdn.com/image/fetch/$s_!KBVG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8299747-c5f9-4a16-8942-1fb4542ade19_1200x400.jpeg" alt="header"/>
+
 ## About
 I’m a software engineer who started meditating in 2022 to fix my burnout. I was looking for stress relief. Instead, I accidentally dismantled my entire worldview.
 
@@ -14,9 +16,28 @@ This repository serves as a permanent archive of these field notes. It contains 
 ## Repository Structure (How to Navigate)
 The content in this repository is organized by "depth," allowing you to choose how far down the rabbit hole you want to go:
 
+<p align="center">
+<img src="https://substackcdn.com/image/fetch/$s_!Lj-i!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F75c6e163-9a84-41a7-8ac9-af875807346a_229x228.png" alt="level-0" width="200"/>
+</p>
+
 * **Level 0: Technical** - Burnout, skepticism, and the rational analysis of spiritual phenomena. Making sense of the "woo" without losing grounding.
+
+<p align="center">
+<img src="https://substackcdn.com/image/fetch/$s_!mHvE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F320b810d-3249-4ce1-82e6-5f34e12f0787_2000x2000.jpeg" alt="level-1" width="200"/>
+</p>
+
 * **Level 1: Transitional** - Where the existing worldview starts to crack. The shift from stress relief to something deeper.
+
+<p align="center">
+<img src="https://substackcdn.com/image/fetch/$s_!GYgf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ee702c5-07b6-4af1-b5b0-ca9d10cbb0e6_2000x2000.jpeg" alt="level-2" width="200"/>
+</p>
+
 * **Level 2: Mystical** - Devotion, the Dark Night, and the visceral ache of falling in love with Something you can’t see.
+
+<p align="center">
+<img src="https://substackcdn.com/image/fetch/$s_!HGKD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4e02046d-d2de-47f2-bba1-dca274eaa9ba_2000x2000.jpeg" alt="level-3" width="200"/>
+</p>
+
 * **Level 3: Union** - Space Division field notes. Non-duality, direct experiences, and phenomena that sound impossible until they happen to you.
 
 ## Origin
