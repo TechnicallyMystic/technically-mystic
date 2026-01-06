@@ -6,7 +6,7 @@
 
 \newpage
 
-# Dedication {.unlisted}
+# Dedication
 
 For the undercover mystics:
 
@@ -38,7 +38,7 @@ For whoever comes next.
 
 \newpage
 
-# Disclaimer {.unlisted}
+# Disclaimer
 
 This document contains descriptions of mystical experiences, spontaneous 
 physical phenomena (kriyas), and altered states of consciousness that arose 
