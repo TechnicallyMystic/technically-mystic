@@ -1,59 +1,183 @@
-# Technically Mystic
+\frontmatter
 
-**Field Notes from the Double Life.**
+> "To the superficial observer, it will appear like madness"
 
-<img src="https://substackcdn.com/image/fetch/$s_!KBVG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa8299747-c5f9-4a16-8942-1fb4542ade19_1200x400.jpeg" alt="header"/>
+-- C.G. Jung, The Red Book
 
-## About
-I’m a software engineer who started meditating in 2022 to fix my burnout. I was looking for stress relief. Instead, I accidentally dismantled my entire worldview.
+\newpage
 
-**Technically Mystic** is the documentation of that dismantling. It is the logs of an atheist turning into a mystic, written by someone who is still trying to keep their day job.
+# Dedication {.unlisted}
 
-For a decade, I’ve built systems and lived by logic. But after finding *The Silence*, I went from an agnostic workaholic to navigating the "Dark Night of the Soul" while trying to act normal in morning stand-ups.
+For the undercover mystics:
 
-This repository serves as a permanent archive of these field notes. It contains all posts and notes as markdown files, compiled into a PDF for easy distribution and preservation.
+- The engineers meditating in their home office.
+- The professionals experiencing kriyas they can't explain.
+- The rational minds falling in love with the Formless.
+- The ones torn in half between worlds.
+- The ones who think they're going crazy.
 
-## Repository Structure (How to Navigate)
-The content in this repository is organized by "depth," allowing you to choose how far down the rabbit hole you want to go:
+You're not crazy.
 
-<p align="center">
-<img src="https://substackcdn.com/image/fetch/$s_!Lj-i!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F75c6e163-9a84-41a7-8ac9-af875807346a_229x228.png" alt="level-0" width="200"/>
-</p>
+This is awakening.
 
-* **Level 0: Technical** - Burnout, skepticism, and the rational analysis of spiritual phenomena. Making sense of the "woo" without losing grounding.
+You're not alone.
 
-<p align="center">
-<img src="https://substackcdn.com/image/fetch/$s_!mHvE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F320b810d-3249-4ce1-82e6-5f34e12f0787_2000x2000.jpeg" alt="level-1" width="200"/>
-</p>
+---
 
-* **Level 1: Transitional** - Where the existing worldview starts to crack. The shift from stress relief to something deeper.
+And for the mystics who came before:
 
-<p align="center">
-<img src="https://substackcdn.com/image/fetch/$s_!GYgf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ee702c5-07b6-4af1-b5b0-ca9d10cbb0e6_2000x2000.jpeg" alt="level-2" width="200"/>
-</p>
+- Who died for speaking truth.
+- Who were burned, imprisoned, silenced.
+- Who left breadcrumbs in the dark.
 
-* **Level 2: Mystical** - Devotion, the Dark Night, and the visceral ache of falling in love with Something you can’t see.
+I found them.
 
-<p align="center">
-<img src="https://substackcdn.com/image/fetch/$s_!HGKD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4e02046d-d2de-47f2-bba1-dca274eaa9ba_2000x2000.jpeg" alt="level-3" width="200"/>
-</p>
+These are mine.
 
-* **Level 3: Union** - Space Division field notes. Non-duality, direct experiences, and phenomena that sound impossible until they happen to you.
+For whoever comes next.
 
-## Origin
-This is the compilation of the Field Notes from the messy middle, sourced from [my website](https://technicallymystic.com).
+\newpage
 
-## License
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+# Disclaimer {.unlisted}
 
-You are free to:
-* **Share** — copy and redistribute the material in any medium or format.
-* **Adapt** — remix, transform, and build upon the material.
+This document contains descriptions of mystical experiences, spontaneous 
+physical phenomena (kriyas), and altered states of consciousness that arose 
+through meditation practice. It is offered as documentation and personal 
+testimony, not as medical or psychological advice.
 
-Under the following terms:
-* **Attribution** — You must give appropriate credit to TechnicallyMystic, provide a link to the license, and indicate if changes were made.
-* **NonCommercial** — You may not use the material for commercial purposes.
-* **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+If you experience concerning physical or psychological symptoms during 
+spiritual practice, please consult qualified healthcare professionals.
+
+The author is not a licensed therapist, medical doctor, or ordained spiritual 
+teacher. This is a field report, not a prescription.
+
+\newpage
+
+\tableofcontents
+
+# How to Use This Document
+
+This is not a book to read cover-to-cover (though you can).
+This is not a manual with step-by-step instructions (there are none).
+This is not a guru's teaching from the mountaintop (I'm still climbing).
+
+This is a collection of field notes from the messy middle of spiritual 
+awakening—written in real-time by someone who started meditating for 
+burnout and accidentally fell in love with God.
+
+## Navigation by Depth
+
+The content is organized by "Levels" based on accessibility and intensity:
+
+→ LEVEL 0: TECHNICAL
+   Start here if you're skeptical, burned out, or new to meditation.
+   Grounded. Practical. Evidence-based.
+   Topics: burnout, stress, why meditation actually works
+
+→ LEVEL 1: TRANSITIONAL  
+   Read this when meditation stops being "just stress relief."
+   The worldview starts cracking. Things get interesting.
+   Topics: strange experiences, falling in love with practice, the double life
+
+→ LEVEL 2: MYSTICAL
+   Enter when you can't turn back anymore.
+   Longing. Dark Nights. Poetry. Devotion.
+   Topics: bhakti, the ghosting, falling in love with the Formless
+
+→ LEVEL 3: UNION
+   Direct transmission. Boundaries dissolve. 
+   Sacred sexuality, spontaneous kriyas, non-dual awareness.
+   Enter only when ready. Content warnings apply.
+
+→ FIELD NOTES
+   Short observations. Quick recognitions. Breadcrumbs.
+   Read these when you need a "me too" moment.
+
+# How to Read
+
+- If you're curious → Start at Level 0 and work your way down
+- If you're already deep in the messy middle → Jump to wherever resonates
+- If you're researching modern mysticism → Read chronologically for 
+  developmental arc
+
+## What This is Not
+
+This is not a how-to guide. I can't give you reproducible steps to 
+enlightenment because spiritual awakening doesn't work that way. 
+(See Field Note: "The Replication Crisis")
+
+This is not safe, sanitized spirituality. It's raw. Sometimes uncomfortable. 
+Sometimes explicitly about things "nice spiritual ladies" aren't supposed 
+to discuss.
+
+This is not written from the end of the journey. I'm documenting AS I go, 
+which means I don't know how this ends. That's the point.
+
+## What This is
+
+- Proof that this happens to ordinary people.
+- Proof that the ancient texts are describing real, reproducible phenomena.
+- Proof that you're not alone in the messy middle.
+
+Read what resonates. Skip what doesn't. Return when you're ready.
+
+The field notes will be here.
+
+\newpage
+
+# About the Author
+
+I’m a software engineer who started meditating in 2022 to fix my burnout. I was looking for stress relief.
+
+Instead, I accidentally dismantled my entire worldview.
+
+For a decade, I’ve built systems, debugged code, and lived by logic. I am a Virgo Sun, a Senior Engineer, and a skeptic by trade.
+
+Over 3.5 years, I went from agnostic workaholic to... whatever this is. 
+Someone who writes love poetry to the Divine at 2 AM.
+Someone hiding the grief of "the Dark Night of the Soul" because it's too difficult to explain.
+Someone experiencing spontaneous kriyas during meditation.
+Someone navigating mystical union while trying to act normal in morning stand-ups and in my marriage.
+
+I spent years thinking I was living a double life—torn between the person everyone knew and the heart beating under the floorboards.
+
+I'm not a guru. I'm not enlightened. I don't have a certification in anything 
+spiritual.
+
+I'm an engineer with who approached meditation with the same rigor I 
+approach debugging code—and discovered that the mystical experiences 
+described in ancient texts are real, reproducible, and happening to ordinary 
+people right now.
+
+This document is my attempt to create the field notes I wish I'd had when 
+meditation stopped being stress relief and started becoming something I 
+couldn't explain.
+
+I write under a pen name because I'm still navigating a double life—
+engineer by day, mystic by night. Maybe someday that won't be necessary. 
+For now, anonymity allows honesty.
+
+If you're reading this and recognizing yourself in these experiences:
+
+You're not crazy.
+This is real.
+You're not alone.
+
+Welcome to the messy middle.
+
+— "Technically Mystic", the Field Reporter
+January 2026
+
+\newpage
+
+\mainmatter
+
+
+\newpage
+
+# Level 0 - Technical
+
+Burnout, skepticism, and the rational analysis of spiritual phenomena. This is where I try to make sense of the “woo” without losing my grounding.
 
 
 \newpage
@@ -578,6 +702,13 @@ So turn off the playlist. Sit in silence… and see what happens.
 
 ## Footnotes
 [1](https://technicallymystic.com/p/pissing-into-a-serene-lake-a-meditation#footnote-anchor-1-180076590)  Fair warning**:** If you do this practice consistently for a few months, you might accidentally catapult yourself into what mystics call “The Dark Night of the Soul.” I’m not kidding. See my Level 1 and Level 2 sections on here for what that actually looks like.
+
+
+\newpage
+
+# Level 1 - Transitional
+
+The messy middle where practice deepens and strange experiences begin to arise. For seekers who've noticed meditation no longer feels like simple stress relief.
 
 
 \newpage
@@ -1746,6 +1877,13 @@ To be continued...
 
 \newpage
 
+# Level 2 - Mystical
+
+The unapologetic deep end of moving from seeking to longing. For those who are wondering what the hell is going on.
+
+
+\newpage
+
 # [Desert Worm](https://technicallymystic.com/p/desert-worm-3a1)
 
 Subtitle: [Level 2: Mystical] On longing for the unreachable
@@ -2574,6 +2712,16 @@ It has a quality to it that I can only describe as "pleased"—"delighted", even
 It feels like the smile of a loved one when you catch their gaze, and yet even that fails to compare.
 
 No words will ever do, yet I paradoxically still try to articulate, hoping to convey that yes, this is real and yes, you can experience this too. It's not outside of you. When it's said that "happiness comes from within", *this* is that Source—and it's there in everyone, calling out to them sweetly from their own depths, wooing them back.
+
+
+\newpage
+
+# Level 3 - Union
+
+Welcome to the Mystics Inc. Space Division.
+Yeah. We're going there.
+
+This section contains transmissions from the edge of the map. Topics include (but are not limited to): ecstatic union, the dissolution of self, experiences that defy categorization, and posts that might make you question my sanity, your sanity, or the nature of reality itself. If you're not ready for that, stick to Levels 0-2. No judgment. This stuff isn't for everyone. But if you're curious what happens when the seeking stops and the union begins? Buckle up.
 
 
 \newpage

@@ -1,0 +1,22 @@
+---
+title: "Technically Mystic"
+author: "Technically Mystic (the Field Reporter)"
+date: "January 2026"
+description: |
+  A Documentation of Spiritual Awakening 
+  in 21st Century America
+rights: "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License"
+lang: "en-US"
+toc: false # need to set ToC to come later
+toc-depth: 2 # this isn't actually respected
+lof: false
+lot: false
+linestretch: 1.2
+documentclass: book
+geometry: margin=1.5in
+mainfont: "Times New Roman" # Optional: requires XeLaTeX or LuaLaTeX
+fontsize: 12pt
+header-includes:
+  - \usepackage{setspace}
+  - \doublespacing
+---

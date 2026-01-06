@@ -14,7 +14,8 @@ process_files() {
 
 # Create/Overwrite manuscript.md
 # We pass the globs as arguments to the function
-process_files README.md \
+process_files \
+	      FRONTMATTER.md \
               Level-0/*.md \
               Level-1/*.md \
               Level-2/*.md \
@@ -22,7 +23,8 @@ process_files README.md \
               Field-Notes/*.md > manuscript.md
 
 # Run through Pandoc
-pandoc -f markdown manuscript.md \
+pandoc metadata.yaml manuscript.md \
+       -f markdown \
        -H hack/header.tex \
        -V geometry:margin=1.5in \
        -o TechnicallyMystic-v$(cat VERSION).pdf
