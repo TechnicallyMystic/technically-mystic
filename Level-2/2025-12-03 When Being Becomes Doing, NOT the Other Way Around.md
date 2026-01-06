@@ -66,10 +66,11 @@ Here are some of the cases I caught myself exhibiting the mystical side of tradi
 **2. The Howl of the Soul (Kashmir Shaivism / Tantra)**
 
 - **Symptom:** Twice in late 2024, I journaled about a specific, visceral sound rising from my chest.
+
   > *"I can't sleep. My heart keeps me awake at night like a newborn crying for his Father. I cannot soothe him. I audibly heard his cries and slept through them 8 nights ago and now I can no longer audibly hear him, yet I cannot sleep now.*
-	  *> I find myself sitting outside before sunrise now, waiting for this too to pass.*
-	  *> My soul howls for You, more piercing than a wolf's to the moon. My mind trembles at its wailing cries that shake the very night sky."* (Journal Entry, September 17, 2024)
-	  > "*I don't want to resort to these measures, but the pain from the unquenchable thirst grows every day. I can feel my heart howling like a wolf at the moon.*" (Journal Entry, November 9, 2024)
+	  *I find myself sitting outside before sunrise now, waiting for this too to pass.*
+	  *My soul howls for You, more piercing than a wolf's to the moon. My mind trembles at its wailing cries that shake the very night sky."* (Journal Entry, September 17, 2024)
+*"I don't want to resort to these measures, but the pain from the unquenchable thirst grows every day. I can feel my heart howling like a wolf at the moon."* (Journal Entry, November 9, 2024)
 - **Discovery:** On March 8th 2025, I read the _Vijnana Bhairava Tantra_. It describes the "State of Bhairava" where consciousness, pinning for union, "lets out a loud wail or howl, similar to the howling of a dog... This is why the vehicle of Bhairava is a dog."
 
 **3. The Ghosting (Christian Mysticism)**
@@ -138,14 +139,17 @@ The goal isn't to DO more. The BE more... **by getting out of Your own way.**
 ## Meta talk:
 ### Special announcement
 So the Substack currently has 3 levels:
+
 - Level 0: Technical
 - Level 1: Transitional
 - Level 2: Mystical
+
 But as I've dug through my field notes, I believe I need to make a new level that doesn't quite fit Level 2 and rather goes *beyond* it (as much beyond as is possible to articulate).
 
 So there will be a Level 3. And it's not subtle.
 
-I'm not certain what to name it yet. But the Co-Founders already gave me the description which They thought was more important:
+I'm not certain what to name it yet. But the Co-Founders already gave me the description which They thought was more important
+
 > WELCOME TO THE MYSTICS INC. *SPACE DIVISION* BOYS.
 WE'RE GOING TO SPACE ON THESE POSTS.
 Mystics Inc.

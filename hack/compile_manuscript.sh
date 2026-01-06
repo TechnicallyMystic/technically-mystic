@@ -16,6 +16,7 @@ process_files() {
 # We pass the globs as arguments to the function
 process_files \
 	      FRONTMATTER.md \
+	      INTRODUCTION.md \
               Level-0/*.md \
               Level-1/*.md \
               Level-2/*.md \

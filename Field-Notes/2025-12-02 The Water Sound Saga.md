@@ -12,9 +12,9 @@ Because this week? **The Universe doubled down.**
 
 **The Trifecta:**
 
-    **Studio theme**: "Flowing with the Element of Water"
-    **Playlist**: Every. Single. Track. Had water sounds.
-    **The finale**: Mid-savasana, the heater shuts off. Suddenly the water sounds go *surround sound*.
+- **Studio theme**: "Flowing with the Element of Water"
+- **Playlist**: Every. Single. Track. Had water sounds.
+-  **The finale**: Mid-savasana, the heater shuts off. Suddenly the water sounds go *surround sound*.
 
 I'm lying there in the dark, fighting for my life not to burst out laughing. I had the biggest, stupidest grin on my face like Someone was whispering the funniest cosmic joke in a moment I desperately needed to stay quiet.
 

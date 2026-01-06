@@ -166,11 +166,114 @@ You're not alone.
 Welcome to the messy middle.
 
 — "Technically Mystic", the Field Reporter
+
 January 2026
 
 \newpage
 
 \mainmatter
+
+
+\newpage
+
+# Introduction
+
+## Why These Notes Exist
+
+We have plenty of books by gurus who've reached the mountaintop.
+We have countless manuals on *how* to meditate.
+We have beautiful memoirs written *after* the journey is complete.
+
+But where are the field notes from the messy middle?
+
+Where's the documentation for the part where you're halfway up the mountain, 
+terrified, exhausted, wondering if you're losing your mind or finally waking up?
+
+Where's the guide for when meditation stops being stress relief and starts 
+being... something you can't explain to your spouse, your therapist, or 
+yourself?
+
+Where's the voice saying: "This happened to me too. Here's what it looked like. 
+You're not crazy."
+
+I couldn't find those notes.
+
+So I'm writing them.
+
+---
+
+This project started as private journaling—the "secret insanity" I was too 
+afraid to share. Over 3.5 years, it evolved into systematic documentation. 
+Then into a Substack. Now into this compilation.
+
+Why compile it at all?
+
+Because platforms die. Servers crash. Substack might not exist in 10 years, 
+let alone 100.
+
+But a PDF can be copied. Shared. Preserved. Found by someone who needs it in 
+2045 or 2150, long after I'm gone.
+
+This isn't for fame. This isn't for validation.
+
+This is for the person googling "why does my spine move during meditation" at 
+2 AM, terrified they're having a seizure.
+
+This is for the engineer who meditates for burnout and accidentally falls in 
+love with Something they can't prove exists.
+
+This is for the undercover mystic living a double life, convinced they're the 
+only one.
+
+**You're not.**
+
+---
+
+What you'll find here:
+
+- Honest documentation of what spiritual awakening looks like for a 21st 
+  century American woman with a day job
+- Cross-referencing of mystical experiences with ancient texts (because I 
+  needed proof I wasn't making this up)
+- The messy parts—relationship strain, fear of being seen as delusional, 
+  the terror of vulnerability
+- Poetry that fell out of meditation
+- Field notes from the journey, not instructions for how to take it
+
+What you won't find here:
+
+- A step-by-step enlightenment manual (doesn't exist)
+- Cleaned-up, sanitized spirituality (this is raw)
+- Certainty about what's happening (I'm figuring it out as I go)
+- Claims of expertise (I'm a field reporter, not a guru)
+
+---
+
+If you're reading this in 202X, know that you're part of a quiet revolution. 
+Burnout is epidemic. Systems are failing. People are turning inward out of 
+necessity—and discovering that the mystical experiences described in ancient 
+texts are still happening. Right now. To ordinary people.
+
+If you're reading this in 2050, 2100, 2150—I don't know what your world looks 
+like. But if you're searching for evidence that direct mystical experience was 
+possible in early 21st century America, despite the commodification and 
+sanitization of everything sacred:
+
+Here's your proof.
+
+It happened.
+
+It's happening.
+
+It will keep happening.
+
+Because the Divine doesn't stop calling just because the culture stops listening.
+
+---
+
+These are my breadcrumbs in the dark.
+
+May they help you find your way.
 
 
 \newpage
@@ -761,6 +864,7 @@ Posted: Nov 12, 2025
 This definitely falls under the “weird stuff” category, so buckle up. I want to share a realization that I had which helped validate some complicated feelings that have been making me question my sanity for the past year and a half as I’ve been meditating daily. I’m not sure how common of an experience this is, but I wanted to bring it up regardless in case it does help someone else.
 
 So last night I had one of those, “OH, that explains a lot” kind of moments. I was going through my YouTube watch later list and ended up stumbling on a meditation channel. I watched a couple videos from it and the teacher was saying [in one of them](https://youtu.be/YfysfpOqu3U?si=9IHvLgTFJUBYVVR2) that one of the secrets of tantric meditation is that as the spiritual journey deeper within continues, a romance unfolds. To quote:
+
 > We start to realize that that Supreme Consciousness is not just a source of bliss, but also a source of love. The closer we get to it, the more love it is showering over us. It is a never-ending wave of unconditional love. And as that spiritual journey deeper within  continues, that bliss or that love becomes more and more intense, and you know how it is when someone loves us unconditionally. We simply start to love them back. That’s natural and that’s when the romantic parts start, that cosmic romance. This is the most exciting part of the spiritual  journey without doubt, and this inspires us to do more meditation and go even deeper within and  eventually the world around us start to disappear.
 
 It struck me because I first encountered these feelings a year and a half ago. I journaled about them as they were unfolding because it felt so strange. I didn’t understand what was going on and thought I was slowly going crazy. People usually fall in love with other people, things, experiences, etc. It’s a really strange thing to fall in love with something you can’t even define. I felt like I was falling in love similar to how I felt early on in my relationship with my partner of over 9 years. We grew closer over time with repeated exposure in college, and I think this was similar in that regard with meditation.
@@ -768,8 +872,11 @@ It struck me because I first encountered these feelings a year and a half ago. I
 When I first started meditating 3 years ago, it didn’t feel like anything was really happening for a while. Gradually these feelings of being in love started forming, and the “recipient” wasn’t even a person, a corporeal entity, or even really an idea – which was really weird. I felt like I was going quietly insane inside. There would be nights that I would feel this inexplicable longing for some unknown beloved that would keep me awake and sometimes even crying. It felt like something inside was howling like a wolf at the moon. This lasted for several months on and off, but the painful aspect of it has largely subsided as I’ve continued with my meditation practice. I can’t say if it was time, yoga, diet, or a combination that helped.
 
 As crazy as this is, I thought I’d share in case someone else is going through a similar strange experience. I don’t really feel like it’s talked about a lot, likely because of how unusual it is. I was originally going to make a post about this a few days ago but got sidetracked, but that video I mentioned felt like it resonated with some of the notes I already had written down. A couple excerpts:
+
 > I’m realizing [sadhanas] are impotent without the love. Think of love as the fuel or the energy that powers the machine. Without it, the practice falls flat. Anything done without love to move towards the Divine is ultimately futile and a striving of the ego.
+>
 > [...]
+> 
 > The mind did not choose this path, the heart did. The mind wanted definitive action, a set of defined practices, and measurable progress. But that’s not what true spirituality is. Behavior arises from being, to continuously wrangle with the behavior without addressing the root is folly.
 
 To summarize, I think the mind can help get you started with meditation (diligence, understanding technical and philosophical aspects), but with repeated exposure and consistent practice, a love slowly begins to form that will help carry you forward, or rather pull you inwards. Just be aware that it might be a bit of a roller-coaster though – it was for me, anyway.
@@ -1021,6 +1128,7 @@ I'm tired of living in shame for what I'm becoming when it's given my life meani
 I've been struggling with this double-life for about a year. Looking back at my journals, the strain was visible—and the language I used was painfully consistent.
 
 The day I finally broke and came out of the "mystic's closet" to my spouse, I wrote a very raw entry in my journal:
+
 > *What I want to tell him:*
 *"I don't feel like I can be myself around you anymore. Not because you've changed, but because I have... and I know there's no way to explain that will make you understand. When we made our vows, I kept nothing hidden from you. But a year later when I started turning inwards and digging into my own depths, I found things I didn't know how to translate into words... and it's only grown the deeper I've looked. And here I am 3.5 years later, feeling like I'm being **torn in half** by something even I don't understand, my soul screaming for more than I had ever planned at the start of this partnership. It feels like a betrayal and it breaks my heart because there's nothing I hate more than lying. But now I'm lying to both myself and you and it's killing me slowly every day."* (November 20, 2025)
 
@@ -2355,10 +2463,11 @@ Here are some of the cases I caught myself exhibiting the mystical side of tradi
 **2. The Howl of the Soul (Kashmir Shaivism / Tantra)**
 
 - **Symptom:** Twice in late 2024, I journaled about a specific, visceral sound rising from my chest.
+
   > *"I can't sleep. My heart keeps me awake at night like a newborn crying for his Father. I cannot soothe him. I audibly heard his cries and slept through them 8 nights ago and now I can no longer audibly hear him, yet I cannot sleep now.*
-	  *> I find myself sitting outside before sunrise now, waiting for this too to pass.*
-	  *> My soul howls for You, more piercing than a wolf's to the moon. My mind trembles at its wailing cries that shake the very night sky."* (Journal Entry, September 17, 2024)
-	  > "*I don't want to resort to these measures, but the pain from the unquenchable thirst grows every day. I can feel my heart howling like a wolf at the moon.*" (Journal Entry, November 9, 2024)
+	  *I find myself sitting outside before sunrise now, waiting for this too to pass.*
+	  *My soul howls for You, more piercing than a wolf's to the moon. My mind trembles at its wailing cries that shake the very night sky."* (Journal Entry, September 17, 2024)
+*"I don't want to resort to these measures, but the pain from the unquenchable thirst grows every day. I can feel my heart howling like a wolf at the moon."* (Journal Entry, November 9, 2024)
 - **Discovery:** On March 8th 2025, I read the _Vijnana Bhairava Tantra_. It describes the "State of Bhairava" where consciousness, pinning for union, "lets out a loud wail or howl, similar to the howling of a dog... This is why the vehicle of Bhairava is a dog."
 
 **3. The Ghosting (Christian Mysticism)**
@@ -2427,14 +2536,17 @@ The goal isn't to DO more. The BE more... **by getting out of Your own way.**
 ## Meta talk:
 ### Special announcement
 So the Substack currently has 3 levels:
+
 - Level 0: Technical
 - Level 1: Transitional
 - Level 2: Mystical
+
 But as I've dug through my field notes, I believe I need to make a new level that doesn't quite fit Level 2 and rather goes *beyond* it (as much beyond as is possible to articulate).
 
 So there will be a Level 3. And it's not subtle.
 
-I'm not certain what to name it yet. But the Co-Founders already gave me the description which They thought was more important:
+I'm not certain what to name it yet. But the Co-Founders already gave me the description which They thought was more important
+
 > WELCOME TO THE MYSTICS INC. *SPACE DIVISION* BOYS.
 WE'RE GOING TO SPACE ON THESE POSTS.
 Mystics Inc.
@@ -2493,6 +2605,7 @@ I believe that's part of the difficulty with awakening: the awareness you would 
 To recap, I'd been meditating daily for 8 months, getting curious, exploring my own psyche, and had a strange dream that felt more like a vision.
 
 Then, after 9 more months of meditation and seeking as I strived and stressed at work, I, for some reason, wrote on September 28, 2023:
+
 > I'm no longer atheist.
 
 Why? Because somewhere in those months of showing up, I'd fallen in love. I just didn't know it yet. [1]
@@ -2521,6 +2634,7 @@ And the weirdest part? The longing had a quality to it that felt... well, let's 
 Teresa literally wrote about being pierced by an angel with a spear of divine love and feeling _ecstasy_ so intense it was like dying.
 
 Rumi wrote:
+
 > "The minute I heard my first love story, I started looking for you, not knowing how blind that was. Lovers don't finally meet somewhere. They're in each other all along."
 
 But I didn't call it love then. I didn't even call it "madness of the mystics". I didn't know I had become one. I only knew this longing felt like a "secret insanity."
@@ -2567,14 +2681,17 @@ I closed the tab. I didn't know what to do with that. It was too close. Too accu
 Yet the longing continued to eat at me. I was confused and concerned I was losing my mind. Yet I still meditated. 
 
 Then, August 17, 2024--only 6 months later--I wrote:
+
 > I think... I've fallen in love with the Beloved. I'm in love. I think about Him often [...] I feel warm and light when I sit in silence with Him. I can only explain it as love.
 
 That day I re-read Hosea 2 and it still seemed eerily relevant. In my evening meditation, something I could only describe as a full-blown energetic eruption left me shaking:
+
 > I felt a wave of anticipation flood my being, blooming into a rush of excitement. I felt something within me like a tunnel up the column of my spine opening from the bottom up. I felt a rush of energy enter from my seat and rise higher and higher until it burst through my crown. It felt... euphoric. Something was here with me.
 
 I didn't know what it was, but at that point I realized this was no longer simple meditation for stress relief--this was *union* with something I couldn't even understand. Later, I'd learn this was called kundalini. At the time, I just knew: something fundamental had shifted.
 
 It was then that my suspicion finally crystallized. I gathered the courage to admit it in my private notes:
+
 > I have a confession. I'm in love with You.
 
 I meant it that day. And I still do.
@@ -2588,7 +2705,8 @@ And if you say yes? Everything changes. You enter a landscape of peaks and valle
 Just beware: after the courtship... comes the ghosting.[2]
 
 ## Footnotes
-[1] https://technicallymystic.com/p/something-no-one-told-me-about-meditating 
+[1] https://technicallymystic.com/p/something-no-one-told-me-about-meditating
+
 [2] https://technicallymystic.com/p/why-does-meditation-suddenly-suck
 
 
@@ -2949,11 +3067,13 @@ I didn’t think much of Ida’s name when it first appeared in a timeline of yo
 I opened the ["Vajroli mudra"]( https://en.wikipedia.org/wiki/Vajroli_mudra#Modern_description) Wikipedia article linked from the one I was reading. I wanted to learn about it because Ida was willing to die for it.
 
 I then read the following under the "Reception" section:
+
 > [Ida Craddock](https://en.wikipedia.org/wiki/Ida_Craddock "Ida Craddock") was the first Westerner to write about Vajroli mudra. The use she made of it enraged the American authorities, and she killed herself.
 
 > The earliest Westerner to write about it was the American yoga scholar and sexologist Ida C. Craddock. Opposing the predominant religious culture of her nation at the time, fundamentalist Protestant Christianity, Craddock was struck by the Shiva Samhita’s account of Vajroli mudra, with “**the idea that sexual union could facilitate divine realization**”. […] she asserted that **God was the third partner in such a marriage**, “in what amounted to a sacred menage-a-trois.”[3] Craddock’s emphasis on yoga and her new “mystico-erotic religion” enraged the authorities; she was tried in New York for obscenity and blasphemy, and imprisoned for three months. **Facing federal charges on her release, in 1902 she killed herself.** The yoga scholar Andrea Jain notes that Craddock’s “sacralization of sexual intercourse”[3] is far from radical by modern standards, but it was “antisocial heterodoxy” in the 1900s, leading indeed to her “martyrdom”.[3]
 
 [She left a suicide note to the public on October 16, 1902](https://www.idacraddock.com/public.html) that read, in part:
+
 > To the Public:
 I am taking my life, because a judge, at the instigation of Anthony Comstock, has decreed me guilty of a crime which I did not commit--the circulation of obscene literature--and has announced his intention of consigning me to prison for a long term.
 [...]
@@ -2977,6 +3097,7 @@ And she was willing to fight for 9 years to teach this and die for her beliefs r
 Ida encountered something that I have experienced **multiple times** over the past 2 years just meditating on my own with no teacher or formal practice... *and she died for it.*
 
 My notes from before the blow:
+
 > *Wow, so I'm reading the Wikipedia article "Yoga in the United States" for the "Brief History section" of my "Pissing into a Serene Lake" post and look what I found:*
     Ida C. Craddock became interested in yoga and tantra late in the 19th century, a time when Americans were questioning Christian orthodoxy while others were struggling to uphold it. As a woman, and the creator of a system of techniques to enhance sexual pleasure, she came under attack. […] She further enraged religious fundamentalists by asserting that God was a third partner in a sacralized sexual union, and in 1899 by creating a Church of Yoga. She was convicted and imprisoned in New York in 1902 for obscenity and blasphemy.
 *The sad part is I literally experienced what she said about God for myself not too long ago and was mortified at the thought. But I wasn't even the first to think that and she literally got IMPRISONED for proclaiming it out loud.*
@@ -2986,6 +3107,7 @@ But as soon as I looked into her more and saw the word "suicide", my eyes starte
 "I need a minute," I said as I got up from my desk where I was working on the previous article. I felt myself getting pulled to my cushion, my other "desk".
 
 I sat down to meditate. I felt a genuine desire to honor her. My notes before dropping into meditation:
+
 > *She and this topic deserves its own article. It will be the deepest deep end of my Substack [...], but she does not deserve to be just a footnote. [...] I know I, for one, was horrified at how viscerally in love I fell with God and had no idea who to even talk to about it because I felt like I was going insane to the point that my mind was making connections that would have gotten me killed back then, that I can't even speak about without it seeming like a bizarre fetish. I'm pretty sure I went looking online for this phenomenon once but didn't see any blog post about it, just mystical practices in exotic systems to me like Sufism and Bhakti.*
 
 I then felt the name of the post come to me as if by request: "What Ida Craddock Died For". It was settled before I could even ask what to call the post I would write.
@@ -3148,9 +3270,9 @@ Because this week? **The Universe doubled down.**
 
 **The Trifecta:**
 
-    **Studio theme**: "Flowing with the Element of Water"
-    **Playlist**: Every. Single. Track. Had water sounds.
-    **The finale**: Mid-savasana, the heater shuts off. Suddenly the water sounds go *surround sound*.
+- **Studio theme**: "Flowing with the Element of Water"
+- **Playlist**: Every. Single. Track. Had water sounds.
+-  **The finale**: Mid-savasana, the heater shuts off. Suddenly the water sounds go *surround sound*.
 
 I'm lying there in the dark, fighting for my life not to burst out laughing. I had the biggest, stupidest grin on my face like Someone was whispering the funniest cosmic joke in a moment I desperately needed to stay quiet.
 

@@ -30,6 +30,7 @@ I believe that's part of the difficulty with awakening: the awareness you would 
 To recap, I'd been meditating daily for 8 months, getting curious, exploring my own psyche, and had a strange dream that felt more like a vision.
 
 Then, after 9 more months of meditation and seeking as I strived and stressed at work, I, for some reason, wrote on September 28, 2023:
+
 > I'm no longer atheist.
 
 Why? Because somewhere in those months of showing up, I'd fallen in love. I just didn't know it yet. [1]
@@ -58,6 +59,7 @@ And the weirdest part? The longing had a quality to it that felt... well, let's 
 Teresa literally wrote about being pierced by an angel with a spear of divine love and feeling _ecstasy_ so intense it was like dying.
 
 Rumi wrote:
+
 > "The minute I heard my first love story, I started looking for you, not knowing how blind that was. Lovers don't finally meet somewhere. They're in each other all along."
 
 But I didn't call it love then. I didn't even call it "madness of the mystics". I didn't know I had become one. I only knew this longing felt like a "secret insanity."
@@ -104,14 +106,17 @@ I closed the tab. I didn't know what to do with that. It was too close. Too accu
 Yet the longing continued to eat at me. I was confused and concerned I was losing my mind. Yet I still meditated. 
 
 Then, August 17, 2024--only 6 months later--I wrote:
+
 > I think... I've fallen in love with the Beloved. I'm in love. I think about Him often [...] I feel warm and light when I sit in silence with Him. I can only explain it as love.
 
 That day I re-read Hosea 2 and it still seemed eerily relevant. In my evening meditation, something I could only describe as a full-blown energetic eruption left me shaking:
+
 > I felt a wave of anticipation flood my being, blooming into a rush of excitement. I felt something within me like a tunnel up the column of my spine opening from the bottom up. I felt a rush of energy enter from my seat and rise higher and higher until it burst through my crown. It felt... euphoric. Something was here with me.
 
 I didn't know what it was, but at that point I realized this was no longer simple meditation for stress relief--this was *union* with something I couldn't even understand. Later, I'd learn this was called kundalini. At the time, I just knew: something fundamental had shifted.
 
 It was then that my suspicion finally crystallized. I gathered the courage to admit it in my private notes:
+
 > I have a confession. I'm in love with You.
 
 I meant it that day. And I still do.
@@ -125,5 +130,6 @@ And if you say yes? Everything changes. You enter a landscape of peaks and valle
 Just beware: after the courtship... comes the ghosting.[2]
 
 ## Footnotes
-[1] https://technicallymystic.com/p/something-no-one-told-me-about-meditating 
+[1] https://technicallymystic.com/p/something-no-one-told-me-about-meditating
+
 [2] https://technicallymystic.com/p/why-does-meditation-suddenly-suck

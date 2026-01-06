@@ -48,6 +48,7 @@ I'm tired of living in shame for what I'm becoming when it's given my life meani
 I've been struggling with this double-life for about a year. Looking back at my journals, the strain was visible—and the language I used was painfully consistent.
 
 The day I finally broke and came out of the "mystic's closet" to my spouse, I wrote a very raw entry in my journal:
+
 > *What I want to tell him:*
 *"I don't feel like I can be myself around you anymore. Not because you've changed, but because I have... and I know there's no way to explain that will make you understand. When we made our vows, I kept nothing hidden from you. But a year later when I started turning inwards and digging into my own depths, I found things I didn't know how to translate into words... and it's only grown the deeper I've looked. And here I am 3.5 years later, feeling like I'm being **torn in half** by something even I don't understand, my soul screaming for more than I had ever planned at the start of this partnership. It feels like a betrayal and it breaks my heart because there's nothing I hate more than lying. But now I'm lying to both myself and you and it's killing me slowly every day."* (November 20, 2025)
 

@@ -1,5 +1,6 @@
 # Introduction
-Why These Notes Exist
+
+## Why These Notes Exist
 
 We have plenty of books by gurus who've reached the mountaintop.
 We have countless manuals on *how* to meditate.

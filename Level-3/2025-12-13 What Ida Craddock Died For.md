@@ -43,11 +43,13 @@ I didn’t think much of Ida’s name when it first appeared in a timeline of yo
 I opened the ["Vajroli mudra"]( https://en.wikipedia.org/wiki/Vajroli_mudra#Modern_description) Wikipedia article linked from the one I was reading. I wanted to learn about it because Ida was willing to die for it.
 
 I then read the following under the "Reception" section:
+
 > [Ida Craddock](https://en.wikipedia.org/wiki/Ida_Craddock "Ida Craddock") was the first Westerner to write about Vajroli mudra. The use she made of it enraged the American authorities, and she killed herself.
 
 > The earliest Westerner to write about it was the American yoga scholar and sexologist Ida C. Craddock. Opposing the predominant religious culture of her nation at the time, fundamentalist Protestant Christianity, Craddock was struck by the Shiva Samhita’s account of Vajroli mudra, with “**the idea that sexual union could facilitate divine realization**”. […] she asserted that **God was the third partner in such a marriage**, “in what amounted to a sacred menage-a-trois.”[3] Craddock’s emphasis on yoga and her new “mystico-erotic religion” enraged the authorities; she was tried in New York for obscenity and blasphemy, and imprisoned for three months. **Facing federal charges on her release, in 1902 she killed herself.** The yoga scholar Andrea Jain notes that Craddock’s “sacralization of sexual intercourse”[3] is far from radical by modern standards, but it was “antisocial heterodoxy” in the 1900s, leading indeed to her “martyrdom”.[3]
 
 [She left a suicide note to the public on October 16, 1902](https://www.idacraddock.com/public.html) that read, in part:
+
 > To the Public:
 I am taking my life, because a judge, at the instigation of Anthony Comstock, has decreed me guilty of a crime which I did not commit--the circulation of obscene literature--and has announced his intention of consigning me to prison for a long term.
 [...]
@@ -71,6 +73,7 @@ And she was willing to fight for 9 years to teach this and die for her beliefs r
 Ida encountered something that I have experienced **multiple times** over the past 2 years just meditating on my own with no teacher or formal practice... *and she died for it.*
 
 My notes from before the blow:
+
 > *Wow, so I'm reading the Wikipedia article "Yoga in the United States" for the "Brief History section" of my "Pissing into a Serene Lake" post and look what I found:*
     Ida C. Craddock became interested in yoga and tantra late in the 19th century, a time when Americans were questioning Christian orthodoxy while others were struggling to uphold it. As a woman, and the creator of a system of techniques to enhance sexual pleasure, she came under attack. […] She further enraged religious fundamentalists by asserting that God was a third partner in a sacralized sexual union, and in 1899 by creating a Church of Yoga. She was convicted and imprisoned in New York in 1902 for obscenity and blasphemy.
 *The sad part is I literally experienced what she said about God for myself not too long ago and was mortified at the thought. But I wasn't even the first to think that and she literally got IMPRISONED for proclaiming it out loud.*
@@ -80,6 +83,7 @@ But as soon as I looked into her more and saw the word "suicide", my eyes starte
 "I need a minute," I said as I got up from my desk where I was working on the previous article. I felt myself getting pulled to my cushion, my other "desk".
 
 I sat down to meditate. I felt a genuine desire to honor her. My notes before dropping into meditation:
+
 > *She and this topic deserves its own article. It will be the deepest deep end of my Substack [...], but she does not deserve to be just a footnote. [...] I know I, for one, was horrified at how viscerally in love I fell with God and had no idea who to even talk to about it because I felt like I was going insane to the point that my mind was making connections that would have gotten me killed back then, that I can't even speak about without it seeming like a bizarre fetish. I'm pretty sure I went looking online for this phenomenon once but didn't see any blog post about it, just mystical practices in exotic systems to me like Sufism and Bhakti.*
 
 I then felt the name of the post come to me as if by request: "What Ida Craddock Died For". It was settled before I could even ask what to call the post I would write.
