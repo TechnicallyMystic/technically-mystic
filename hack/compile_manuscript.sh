@@ -23,6 +23,9 @@ process_files \
               Level-3/*.md \
               Field-Notes/*.md > manuscript.md
 
+# Clean up old PDF
+rm -f TechnicallyMystic-v*.pdf
+
 # Run through Pandoc
 pandoc metadata.yaml manuscript.md \
        -f markdown \
