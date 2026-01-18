@@ -303,6 +303,7 @@ In this guide, you’ll learn:
 2. Two evidence-based practices that actually help
 3. Why these work (the science behind completing the stress cycle)
 4. How to start today (with a low bar you can actually clear)
+
 ## It’s not just you
 At first I thought it was just me 4 years ago with 2 projects killed back-to-back within the span of 2 years as I was gunning for a promotion to staff-level (went up to 3 axed projects in a row as of 2 years ago, but this time I actually wanted it to be killed... maybe more on that in another post).
 
@@ -1416,6 +1417,7 @@ If kriyas become too intense:
  - End the session early if needed
 
 Kundalini awakening isn't a race. You don't get bonus points for enduring more intensity than you're ready for.
+
 ## Wrapping up
 If you're experiencing spontaneous movements in meditation—even if they feel strange, even if they feel _too intimate_—you're not broken. You're awakening.
 
@@ -1896,6 +1898,7 @@ Like Jung, containment was breached. Now almost anyone can read his once secret 
 Like Jung, I also realized the Self isn’t just an archetype. It’s God within the psyche—and I made an agreement with that Self **that I was held accountable to whether I knew it or not**.
 
 But how did that “Self,” that “still, small voice,” that _whatever_ it was arise? And how did I even know it was something other than my usual thoughts?
+
 ## That wasn't me... was it?
 A month into meditation, I was _hooked_ on [Ramana Maharshi](https://en.wikipedia.org/wiki/Ramana_Maharshi)’s “self-inquiry” (a _jnana yoga_ practice also known as _atma vicharya_)—the turning of awareness in on itself with the devastatingly simple question that people strive their entire lives trying to answer: “**Who am I?”**
 
@@ -1931,6 +1934,7 @@ I don’t think I slept that night. I read the entire thing.
 I mulled over it for the days that followed. I got (well, _made_ as a small coding side project with TTS, but also bought) the audiobook.
 
 At this point, I knew there was something MUCH deeper. I was only at the very tip of the iceberg, and I was getting ready to plunge into the frigid depths.
+
 ## The promise I made without understanding
 My notes were still fairly sparse, partially because it felt like insanity to record an “internal dialogue”, as I was labeling it in my journals. Who does that? Diaries and journals are one thing, but a _dialogue_? That would imply TWO.
 
@@ -1945,6 +1949,7 @@ What’s interesting to see is that I tried to sanitize it immediately as if I d
 > _“Bhakti cannot be taught. Bhakti is pure expression of Love, coming from the soul itself that arrests the mind, the one that seeks to “follow a path”. Your mind cannot choose Bhakti. It is not chosen. It is the natural state of Being. It is a realignment.”_ — Journal Entry, June 9, 2025
 
 I didn’t know that at the time. I was eager for the “most efficient” path to awakening, thinking I could still optimize this like I could everything else, that there was a “right” way to do it. I was still trying. I didn’t realize I was being led by Something... and that Something had an intelligence of Its own—one that mine only borrowed from.
+
 ## Archetypal resonance
 Days after this promise, I fell down a psychology Wikipedia hole trying to understand what was going on within me. I spent DAYS working through the tabs. Eventually (and unsurprisingly), I got to Jungian psychology, [Carl Jung](https://en.m.wikipedia.org/wiki/Carl_Jung) being a heavyweight in the field.
 
@@ -2601,6 +2606,7 @@ I can't tell you *exactly* when I stopped being an atheist.
 But I CAN tell you when it finally dawned on me that I wasn't. Not the full story (see [Why I Can't Give You a Stack Trace of How I Got Here](https://technicallymystic.com/p/why-i-cant-give-you-a-clean-stack)), but points along the way that made me realize I was no longer questioning my beliefs--that they had ALREADY changed.
 
 I believe that's part of the difficulty with awakening: the awareness you would have needed to document the subtle transformation in real-time isn't developed at the beginning. That and so much of it was drowned out by my personality's noise that even my journals are an absolute mess. But there were notable moments that did stand out.
+
 ## Something's there...
 To recap, I'd been meditating daily for 8 months, getting curious, exploring my own psyche, and had a strange dream that felt more like a vision.
 
@@ -2695,6 +2701,7 @@ It was then that my suspicion finally crystallized. I gathered the courage to ad
 > I have a confession. I'm in love with You.
 
 I meant it that day. And I still do.
+
 ## Wrapping up
 So, in a head-spinning 2.5 years, I went not just from burnt-out atheist, to curious seeker, to longing lover. It just took me some time to recognize love for what it was... and that the longing was the point all along.
 
@@ -3333,6 +3340,7 @@ From St. Teresa of Avila's autobiography on the "transverberation" of her heart:
 > I saw in [the angel's] hand a long spear of gold, and at the iron’s point there seemed to be a little fire. He appeared to me to be thrusting it at times into my heart and to pierce my very entrails; when he drew it out, he seemed to draw them out also, and to leave me all on fire with a great love of God. The pain was so great, that it made me moan; and yet so surpassing was the sweetness of this excessive pain, that I could not wish to be rid of it. The soul is satisfied now with nothing less than God. The pain is not bodily, but spiritual; though the body has its share in it, even a large one. It is a caressing of love so sweet which now takes place between the soul and God, that I pray God of His goodness to make him experience it who may think that I am lying.
 
 ![](https://substackcdn.com/image/fetch/$s_!FM4n!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2cc1550-0d9c-4fbf-a179-ffd66cd7c837_2736x3648.jpeg)
+
 The **_Ecstasy of Saint Teresa_** (also known as _Saint Teresa in Ecstasy_), set in the Cornaro Chapel of the church of Santa Maria della Vittoria in Rome, designed and carved by Gian Lorenzo Bernini, the leading sculptor of his day. The commission was completed in 1652.
 
 From "All My Youth Returns" by Rumi (translated by [Jonathan Star's *In the Arms of the Beloved*](https://www.yumpu.com/en/document/read/67508135/jonathan-star-rumi-in-the-arms-of-the-beloved-2008/42)):
@@ -3360,6 +3368,7 @@ From my first breath, I have longed for Him-
 This longing has become my life.
 
 When I compared some of these to my own journal entries, I was floored at the resonance:
+
 ### August 31, 2024
 
 > *"I'm losing my mind. It doesn't make any sense as to what's causing this but I can see myself getting drawn deeper and deeper into You.
@@ -3564,9 +3573,10 @@ THAT'S YOU.
 
 This is the Shiva path.
 
-![A Chladni plate vibrating at 5284 Hz with sand on it gathering into repeating geometric shapes.](https://substackcdn.com/image/fetch/$s_!br-U!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53705419-7fbf-42c6-88bf-91da8f8c1a51_3582x2014.png "A Chladni plate vibrating at 5284 Hz with sand on it gathering into repeating geometric shapes.")
+![A Chladni plate vibrating at 5284 Hz with sand on it gathering into repeating geometric shapes.](https://substackcdn.com/image/fetch/$s_!br-U!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53705419-7fbf-42c6-88bf-91da8f8c1a51_3582x2014.png)
 
 Visual proof of the Gap. This is a Chladni plate at 5284 Hz. In physics, the sand forms these patterns by gathering at the "nodes"—the specific lines on the plate where there is **no vibration**. The chaos of the sound pushes the matter into the places of perfect stillness. The form is literally held together by the silence....
+
 ## Shakti to Shiva
 I experienced both of these at sound bath, switching between them.
 I started with the joy of the Shakti path, feeling the vibration within me, resonating with the instruments, the particles of my being dancing.
@@ -3614,6 +3624,7 @@ This is what the mystics mean when they say:
 
 ## A meditation
 The next time you're at a sound bath, explore both of the following:
+
 ###  Riding the wave
 If you want to feel God as energy, movement, ecstasy, union through merging, ***feel into*** **where in your body you feel sound.**
 

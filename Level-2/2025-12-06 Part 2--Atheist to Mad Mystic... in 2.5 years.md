@@ -26,6 +26,7 @@ I can't tell you *exactly* when I stopped being an atheist.
 But I CAN tell you when it finally dawned on me that I wasn't. Not the full story (see [Why I Can't Give You a Stack Trace of How I Got Here](https://technicallymystic.com/p/why-i-cant-give-you-a-clean-stack)), but points along the way that made me realize I was no longer questioning my beliefs--that they had ALREADY changed.
 
 I believe that's part of the difficulty with awakening: the awareness you would have needed to document the subtle transformation in real-time isn't developed at the beginning. That and so much of it was drowned out by my personality's noise that even my journals are an absolute mess. But there were notable moments that did stand out.
+
 ## Something's there...
 To recap, I'd been meditating daily for 8 months, getting curious, exploring my own psyche, and had a strange dream that felt more like a vision.
 
@@ -120,6 +121,7 @@ It was then that my suspicion finally crystallized. I gathered the courage to ad
 > I have a confession. I'm in love with You.
 
 I meant it that day. And I still do.
+
 ## Wrapping up
 So, in a head-spinning 2.5 years, I went not just from burnt-out atheist, to curious seeker, to longing lover. It just took me some time to recognize love for what it was... and that the longing was the point all along.
 

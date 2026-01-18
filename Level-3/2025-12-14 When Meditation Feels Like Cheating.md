@@ -139,6 +139,7 @@ From St. Teresa of Avila's autobiography on the "transverberation" of her heart:
 > I saw in [the angel's] hand a long spear of gold, and at the iron’s point there seemed to be a little fire. He appeared to me to be thrusting it at times into my heart and to pierce my very entrails; when he drew it out, he seemed to draw them out also, and to leave me all on fire with a great love of God. The pain was so great, that it made me moan; and yet so surpassing was the sweetness of this excessive pain, that I could not wish to be rid of it. The soul is satisfied now with nothing less than God. The pain is not bodily, but spiritual; though the body has its share in it, even a large one. It is a caressing of love so sweet which now takes place between the soul and God, that I pray God of His goodness to make him experience it who may think that I am lying.
 
 ![](https://substackcdn.com/image/fetch/$s_!FM4n!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2cc1550-0d9c-4fbf-a179-ffd66cd7c837_2736x3648.jpeg)
+
 The **_Ecstasy of Saint Teresa_** (also known as _Saint Teresa in Ecstasy_), set in the Cornaro Chapel of the church of Santa Maria della Vittoria in Rome, designed and carved by Gian Lorenzo Bernini, the leading sculptor of his day. The commission was completed in 1652.
 
 From "All My Youth Returns" by Rumi (translated by [Jonathan Star's *In the Arms of the Beloved*](https://www.yumpu.com/en/document/read/67508135/jonathan-star-rumi-in-the-arms-of-the-beloved-2008/42)):
@@ -166,6 +167,7 @@ From my first breath, I have longed for Him-
 This longing has become my life.
 
 When I compared some of these to my own journal entries, I was floored at the resonance:
+
 ### August 31, 2024
 
 > *"I'm losing my mind. It doesn't make any sense as to what's causing this but I can see myself getting drawn deeper and deeper into You.

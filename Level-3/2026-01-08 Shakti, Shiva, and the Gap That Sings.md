@@ -47,9 +47,10 @@ THAT'S YOU.
 
 This is the Shiva path.
 
-![A Chladni plate vibrating at 5284 Hz with sand on it gathering into repeating geometric shapes.](https://substackcdn.com/image/fetch/$s_!br-U!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53705419-7fbf-42c6-88bf-91da8f8c1a51_3582x2014.png "A Chladni plate vibrating at 5284 Hz with sand on it gathering into repeating geometric shapes.")
+![A Chladni plate vibrating at 5284 Hz with sand on it gathering into repeating geometric shapes.](https://substackcdn.com/image/fetch/$s_!br-U!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53705419-7fbf-42c6-88bf-91da8f8c1a51_3582x2014.png)
 
 Visual proof of the Gap. This is a Chladni plate at 5284 Hz. In physics, the sand forms these patterns by gathering at the "nodes"—the specific lines on the plate where there is **no vibration**. The chaos of the sound pushes the matter into the places of perfect stillness. The form is literally held together by the silence....
+
 ## Shakti to Shiva
 I experienced both of these at sound bath, switching between them.
 I started with the joy of the Shakti path, feeling the vibration within me, resonating with the instruments, the particles of my being dancing.
@@ -97,6 +98,7 @@ This is what the mystics mean when they say:
 
 ## A meditation
 The next time you're at a sound bath, explore both of the following:
+
 ###  Riding the wave
 If you want to feel God as energy, movement, ecstasy, union through merging, ***feel into*** **where in your body you feel sound.**
 

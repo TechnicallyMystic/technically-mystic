@@ -236,6 +236,7 @@ If kriyas become too intense:
  - End the session early if needed
 
 Kundalini awakening isn't a race. You don't get bonus points for enduring more intensity than you're ready for.
+
 ## Wrapping up
 If you're experiencing spontaneous movements in meditation—even if they feel strange, even if they feel _too intimate_—you're not broken. You're awakening.
 

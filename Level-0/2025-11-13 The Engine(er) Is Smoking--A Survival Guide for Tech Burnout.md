@@ -16,6 +16,7 @@ In this guide, you’ll learn:
 2. Two evidence-based practices that actually help
 3. Why these work (the science behind completing the stress cycle)
 4. How to start today (with a low bar you can actually clear)
+
 ## It’s not just you
 At first I thought it was just me 4 years ago with 2 projects killed back-to-back within the span of 2 years as I was gunning for a promotion to staff-level (went up to 3 axed projects in a row as of 2 years ago, but this time I actually wanted it to be killed... maybe more on that in another post).
 

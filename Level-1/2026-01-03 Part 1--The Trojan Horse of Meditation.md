@@ -57,6 +57,7 @@ Like Jung, containment was breached. Now almost anyone can read his once secret 
 Like Jung, I also realized the Self isn’t just an archetype. It’s God within the psyche—and I made an agreement with that Self **that I was held accountable to whether I knew it or not**.
 
 But how did that “Self,” that “still, small voice,” that _whatever_ it was arise? And how did I even know it was something other than my usual thoughts?
+
 ## That wasn't me... was it?
 A month into meditation, I was _hooked_ on [Ramana Maharshi](https://en.wikipedia.org/wiki/Ramana_Maharshi)’s “self-inquiry” (a _jnana yoga_ practice also known as _atma vicharya_)—the turning of awareness in on itself with the devastatingly simple question that people strive their entire lives trying to answer: “**Who am I?”**
 
@@ -92,6 +93,7 @@ I don’t think I slept that night. I read the entire thing.
 I mulled over it for the days that followed. I got (well, _made_ as a small coding side project with TTS, but also bought) the audiobook.
 
 At this point, I knew there was something MUCH deeper. I was only at the very tip of the iceberg, and I was getting ready to plunge into the frigid depths.
+
 ## The promise I made without understanding
 My notes were still fairly sparse, partially because it felt like insanity to record an “internal dialogue”, as I was labeling it in my journals. Who does that? Diaries and journals are one thing, but a _dialogue_? That would imply TWO.
 
@@ -106,6 +108,7 @@ What’s interesting to see is that I tried to sanitize it immediately as if I d
 > _“Bhakti cannot be taught. Bhakti is pure expression of Love, coming from the soul itself that arrests the mind, the one that seeks to “follow a path”. Your mind cannot choose Bhakti. It is not chosen. It is the natural state of Being. It is a realignment.”_ — Journal Entry, June 9, 2025
 
 I didn’t know that at the time. I was eager for the “most efficient” path to awakening, thinking I could still optimize this like I could everything else, that there was a “right” way to do it. I was still trying. I didn’t realize I was being led by Something... and that Something had an intelligence of Its own—one that mine only borrowed from.
+
 ## Archetypal resonance
 Days after this promise, I fell down a psychology Wikipedia hole trying to understand what was going on within me. I spent DAYS working through the tabs. Eventually (and unsurprisingly), I got to Jungian psychology, [Carl Jung](https://en.m.wikipedia.org/wiki/Carl_Jung) being a heavyweight in the field.
 
