@@ -27,7 +27,7 @@ process_files \
 rm -f TechnicallyMystic-v*.pdf
 
 # Run through Pandoc
-pandoc metadata.yaml manuscript.md \
+pandoc <(sed "s/VERSION_TAG/$(cat VERSION)/" metadata.yaml) manuscript.md \
        -f markdown \
        -H hack/header.tex \
        -V geometry:margin=1.5in \

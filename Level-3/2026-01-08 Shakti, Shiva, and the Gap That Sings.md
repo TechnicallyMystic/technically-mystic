@@ -1,6 +1,8 @@
-# Shakti, Shiva, and the Gap That Sings
+# [Shakti, Shiva, and the Gap That Sings](https://technicallymystic.com/p/shakti-shiva-and-the-gap-that-sings)
+
 Subtitle: [Level:3 Union] You can become the vibration. Or you can become the space. Both are You.
-Drafted: Jan 8, 2026
+
+Posted: Jan 8, 2026
 
 ---
 

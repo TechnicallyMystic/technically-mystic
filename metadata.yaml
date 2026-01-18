@@ -1,6 +1,8 @@
 ---
 title: "\\fontsize{50}{60}\\selectfont Technically Mystic"
-subtitle: "\\Large Field Notes from the Messy Middle"
+subtitle: |
+  \Large Field Notes from the Messy Middle \par
+  Version: VERSION_TAG
 author: "Technically Mystic (the Field Reporter)"
 date: "January 2026"
 description: |
