@@ -134,6 +134,40 @@ If you try a technique from a book and it feels forced or empty—STOP. You're t
 
 The goal isn't to DO more. The BE more... **by getting out of Your own way.**
 
+## P.S.
+
+### Update (Jan 28, 2026)
+
+Techniques _can_ be symptoms, not prescriptions, but it’s not universally true for _all_ practices.
+
+The Khecari Mudra is something that I once thought was a joke someone was making on the HealthyGamer community until I actually looked it up. It’s...honestly unsettling. From [Wikipedia](https://en.wikipedia.org/wiki/Khecar%C4%AB_mudr%C4%81):
+
+> The tongue is made long enough to do this with many months of daily tongue stretching and, in some versions of the practice, by gradually severing the frenulum of the tongue with a sharp implement over a period of months.
+
+![](https://substackcdn.com/image/fetch/$s_!UW-g!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a7c82b3-fb70-45dd-8cc7-2bc53712b4a1_1280x453.jpeg)
+
+*Caption: From Wikipedia: Four stages of **khecarī mudrā**. The tongue (red) is progressively stretched, and the [frenulum of the tongue](https://en.wikipedia.org/wiki/Frenulum_of_the_tongue) (not shown) sufficiently severed, over a period of months, until it can be turned back so as to reach inside the nasal cavity, and supposedly manipulate the flow of [**bindu**](https://en.wikipedia.org/wiki/Bindu_\(symbol\)).*
+
+The odds of a meditation practitioner _spontaneously_ curling their tongue back until it reaches _into the nasal cavity WITHOUT cutting anything_?? No way (though if anyone has ever heard of a “spontaneous Khecari” without the surgical assist, please drop a comment and blow my mind).
+
+So it seems there are three categories of techniques in the yogic texts:
+
+1. **Spontaneous symptoms** that arise naturally during awakening (e.g. spine jolts, mudras not previously learned)
+2. **Deliberate practices** that can be taught and learned to create conditions for facilitating awakening (sadhanas, Khecari mudra)
+3. **Hybrid phenomena** that can arise spontaneously OR be deliberately cultivated (mula bandha, sahajoli mudra)
+
+The texts don’t clearly label which is which.
+
+Is this describing what happened _to_ the yogi?
+
+Or is this prescribing what the yogi _did_?
+
+I once thought they fell into the second bucket—practices discovered by trial and error. But from my experience, the more I’ve followed deliberate practices, the more I’ve seen spontaneous symptoms and hybrid phenomena arise.
+
+Yet, for some reason, the Khecari mudra popped into my head last night and made me question this entire framework of this post’s title.
+
+Frustratingly, as I’m discovering more and more, the answer is that annoying koan of a slogan that might as well be a punchline at this point: **Both and Neither**.
+
 ---
 
 ## Meta talk:
