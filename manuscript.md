@@ -4503,11 +4503,13 @@ Posted: Jan 28, 2026
 ---
 
 Yesterday in meditation my brain decided to put on its QA hat for a post I wrote almost 2 months ago:
+
 > Hang on... if "techniques are symptoms and not prescriptions"...what the &^%# is Khecari mudra?? There's NO way someone spontaneously did that shit while awakening.
 
 Techniques *can* be symptoms, not prescriptions as I wrote (https://technicallymystic.com/p/when-being-becomes-doing-not-the), but it's not universally true for *all* practices.
 
 The Khecari Mudra is something that I once thought was a joke someone was making on the HealthyGamer community until I actually looked it up. It's...honestly unsettling. From Wikipedia (https://en.wikipedia.org/wiki/Khecar%C4%AB_mudr%C4%81):
+
 > The tongue is made long enough to do this with many months of daily tongue stretching and, in some versions of the practice, by gradually severing the frenulum of the tongue with a sharp implement over a period of months.
 
 The odds of a meditation practitioner *spontaneously* curling their tongue back until it reaches *into the nasal cavity WITHOUT cutting anything*?? No way (though if anyone has ever heard of a "spontaneous Khecari" without the surgical assist, please drop a comment and blow my mind).
@@ -4562,6 +4564,36 @@ I'll try again tomorrow.
 #TechnicallyMystic #FieldNotes #GitFail #Vairagya 
 
 
+
+\newpage
+
+# **Field Note: Finding the Leak**
+
+Posted: Jan 29, 2026
+
+---
+
+I woke up exhausted after 3 days of shoveling snow and the usual grind. But this morning instead of the usual internal monologue about how tired I was and how much I had to do, detached observation arose.
+I realized when energy is not spent on:
+
+- **Resisting what is** (your tiredness)
+- **Worrying about how to fix problems** (the urge to *do* something)
+- **Internal monologuing about difficulties** (telling yourself the narrative)
+
+And you instead passively observe your state and actions?
+
+All that energy you claimed was in short supply becomes available.
+
+For me, that energy automatically went into finding tension within and softening it as I went about my morning routine. More energy released. That energy returned to the heart center like being recalled home.
+**The path**: Develop the capacity to pause in the gap between action and reaction, between object and subject. In that gap lies infinity.
+
+In that gap you choose: Follow the old script of exhaustive clinging/resisting? Or let it pass?
+
+This isn't “mind over matter” (spiritual bypassing) or ignoring the body’s need for rest. It’s about noticing the leak—the mental friction that makes the physical exhaustion twice as heavy.
+
+Even as I write this, my body is jolting in kriyas without me trying as more stuck energy loosens and frees up. The teaching confirms itself.
+
+#TechnicallyMystic #FieldNotes #Mindfulness #Spirituality
 
 \newpage
 

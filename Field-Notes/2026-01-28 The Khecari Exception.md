@@ -5,11 +5,13 @@ Posted: Jan 28, 2026
 ---
 
 Yesterday in meditation my brain decided to put on its QA hat for a post I wrote almost 2 months ago:
+
 > Hang on... if "techniques are symptoms and not prescriptions"...what the &^%# is Khecari mudra?? There's NO way someone spontaneously did that shit while awakening.
 
 Techniques *can* be symptoms, not prescriptions as I wrote (https://technicallymystic.com/p/when-being-becomes-doing-not-the), but it's not universally true for *all* practices.
 
 The Khecari Mudra is something that I once thought was a joke someone was making on the HealthyGamer community until I actually looked it up. It's...honestly unsettling. From Wikipedia (https://en.wikipedia.org/wiki/Khecar%C4%AB_mudr%C4%81):
+
 > The tongue is made long enough to do this with many months of daily tongue stretching and, in some versions of the practice, by gradually severing the frenulum of the tongue with a sharp implement over a period of months.
 
 The odds of a meditation practitioner *spontaneously* curling their tongue back until it reaches *into the nasal cavity WITHOUT cutting anything*?? No way (though if anyone has ever heard of a "spontaneous Khecari" without the surgical assist, please drop a comment and blow my mind).
