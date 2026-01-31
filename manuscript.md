@@ -2704,6 +2704,40 @@ If you try a technique from a book and it feels forced or empty—STOP. You're t
 
 The goal isn't to DO more. The BE more... **by getting out of Your own way.**
 
+## P.S.
+
+### Update (Jan 28, 2026)
+
+Techniques _can_ be symptoms, not prescriptions, but it’s not universally true for _all_ practices.
+
+The Khecari Mudra is something that I once thought was a joke someone was making on the HealthyGamer community until I actually looked it up. It’s...honestly unsettling. From [Wikipedia](https://en.wikipedia.org/wiki/Khecar%C4%AB_mudr%C4%81):
+
+> The tongue is made long enough to do this with many months of daily tongue stretching and, in some versions of the practice, by gradually severing the frenulum of the tongue with a sharp implement over a period of months.
+
+![](https://substackcdn.com/image/fetch/$s_!UW-g!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a7c82b3-fb70-45dd-8cc7-2bc53712b4a1_1280x453.jpeg)
+
+*Caption: From Wikipedia: Four stages of **khecarī mudrā**. The tongue (red) is progressively stretched, and the [frenulum of the tongue](https://en.wikipedia.org/wiki/Frenulum_of_the_tongue) (not shown) sufficiently severed, over a period of months, until it can be turned back so as to reach inside the nasal cavity, and supposedly manipulate the flow of [**bindu**](https://en.wikipedia.org/wiki/Bindu_\(symbol\)).*
+
+The odds of a meditation practitioner _spontaneously_ curling their tongue back until it reaches _into the nasal cavity WITHOUT cutting anything_?? No way (though if anyone has ever heard of a “spontaneous Khecari” without the surgical assist, please drop a comment and blow my mind).
+
+So it seems there are three categories of techniques in the yogic texts:
+
+1. **Spontaneous symptoms** that arise naturally during awakening (e.g. spine jolts, mudras not previously learned)
+2. **Deliberate practices** that can be taught and learned to create conditions for facilitating awakening (sadhanas, Khecari mudra)
+3. **Hybrid phenomena** that can arise spontaneously OR be deliberately cultivated (mula bandha, sahajoli mudra)
+
+The texts don’t clearly label which is which.
+
+Is this describing what happened _to_ the yogi?
+
+Or is this prescribing what the yogi _did_?
+
+I once thought they fell into the second bucket—practices discovered by trial and error. But from my experience, the more I’ve followed deliberate practices, the more I’ve seen spontaneous symptoms and hybrid phenomena arise.
+
+Yet, for some reason, the Khecari mudra popped into my head last night and made me question this entire framework of this post’s title.
+
+Frustratingly, as I’m discovering more and more, the answer is that annoying koan of a slogan that might as well be a punchline at this point: **Both and Neither**.
+
 ---
 
 ## Meta talk:
@@ -3006,6 +3040,65 @@ It feels like the smile of a loved one when you catch their gaze, and yet even t
 
 No words will ever do, yet I paradoxically still try to articulate, hoping to convey that yes, this is real and yes, you can experience this too. It's not outside of you. When it's said that "happiness comes from within", *this* is that Source—and it's there in everyone, calling out to them sweetly from their own depths, wooing them back.
 
+
+\newpage
+
+# [Falling Into the Black Whole](https://technicallymystic.com/p/falling-into-the-black-whole)
+
+Subtitle: [Level 2: Mystical] What happens when you get too close to God
+
+Posted: Jan 30, 2026
+
+---
+
+They call it a *black hole*, but that's only because they're observing from the outside. From the inside? It's the Black Whole—the singularity where all separation collapses into union.
+
+Let me explain.
+
+Imagine you are floating out in space, drifting towards the center of a galaxy. You see a void with light bending around it and you drift closer in curiosity—until you realize you're being pulled in. And that pull has become irresistible. By the time you realize this, you've crossed the event horizon. And there's no going back.
+
+From the outside, awakening looks like death.
+It is.
+It's the death of the old self, the old narrative. The ego dissolves. The personality softens. The attachments release. The desires fall away.
+
+But from the inside? Awakening feels like being torn apart by an irresistible force, like being pulled towards something awfully greater than thought can contain.
+
+It's falling into a black hole.
+
+![](https://substackcdn.com/image/fetch/$s_!tA7g!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb54a8ab6-3879-436e-9ac9-fefd3915ff53_3840x2160.jpeg)
+
+*Caption: To think I once used this photo in a blog post about configuring a DNS black hole and now I'm using it to talk about God makes me realize how far I've come in the past several years.*
+
+To those outside its reach, they don't feel the tug. But I drifted towards the black hole, got caught in its gravity, and now am falling towards it so fast it's spaghettifying my personality. Meanwhile, to those closest to me, I'm trapped on the event horizon, motionless and lifeless. But from my perspective? My atoms are being shredded from the sheer force of the pull.
+
+Both are true. But they look wildly different from across the event horizon. And once that threshold is crossed? There's no return, only the terrifying yet irresistible inevitability of union so immediate that time itself stops making sense—because at that point there is no more separation. No observer. No observed. Only the singularity—which bears no witnesses because there's no one left to witness.
+
+## P.S.
+**Content note**: The following is a journal entry from 4 months into daily meditation. It describes a direct mystical experience that I didn't have language for at the time. If direct transmission language feels too far, the post stands on its own without it. But if you've ever experienced something similar and thought you were losing your mind—this is for you.
+
+---
+
+> _I then saw pictured before me a door._
+> _"Knock and it shall be open unto you.”_
+> > _I Am that I Am. There is no door._
+> _And with that magic command, the door instantly vanished and I was sucked into my Self. I felt a return to my Self. The unexplainable ease.…_
+> _I have been sucked into the Black Hole. The same one Eckhart Tolle must have been sucked into. There is no thing or any thing._
+> _Singularity._
+> _Everything has canceled out. Matter has obliterated antimatter. Or rather it never did._
+> _Time makes no sense here. Nothing ever happens yet everything happened._
+> _Infinite possibilities. Truly infinity... it's true peace._
+> _—_ Journal Entry, August 31, 2022
+
+I only realized now that Eckhart Tolle described his experience in an almost identical manner in _The Power of Now_ (a book I read in college but didn't truly understand until I lived it):
+
+> _I felt drawn into what seemed like a vortex of energy. It was a slow movement at first and then accelerated. I was gripped by an intense fear, and my body started to shake. I heard the words “resist nothing,” as if spoken inside my chest. I could feel myself being sucked into a void. It felt as if the void was inside myself rather than outside. Suddenly, there was no more fear, and I let myself fall into that void._
+> — _The Power of Now_, Introduction
+
+Same void. Same singularity. Same Black Hole.
+
+![](https://substackcdn.com/image/fetch/$s_!y5DQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc55836e-14f8-4ed3-8374-cedc7c834b19_2968x3016.jpeg)
+
+*Caption: A stress doodle from March 2024.*
 
 \newpage
 
@@ -4400,6 +4493,75 @@ The real practice isn't the ecstacy itself. It's in picking up the rake immediat
 Panel 4 is where the integration happens.
 
 #TechnicallyMystic #FieldNotes #ChopWoodCarryWater #Integration
+
+\newpage
+
+# **Field Note: The Khecari Exception**
+
+Posted: Jan 28, 2026
+
+---
+
+Yesterday in meditation my brain decided to put on its QA hat for a post I wrote almost 2 months ago:
+> Hang on... if "techniques are symptoms and not prescriptions"...what the &^%# is Khecari mudra?? There's NO way someone spontaneously did that shit while awakening.
+
+Techniques *can* be symptoms, not prescriptions as I wrote (https://technicallymystic.com/p/when-being-becomes-doing-not-the), but it's not universally true for *all* practices.
+
+The Khecari Mudra is something that I once thought was a joke someone was making on the HealthyGamer community until I actually looked it up. It's...honestly unsettling. From Wikipedia (https://en.wikipedia.org/wiki/Khecar%C4%AB_mudr%C4%81):
+> The tongue is made long enough to do this with many months of daily tongue stretching and, in some versions of the practice, by gradually severing the frenulum of the tongue with a sharp implement over a period of months.
+
+The odds of a meditation practitioner *spontaneously* curling their tongue back until it reaches *into the nasal cavity WITHOUT cutting anything*?? No way (though if anyone has ever heard of a "spontaneous Khecari" without the surgical assist, please drop a comment and blow my mind).
+
+So it seems there are three categories of techniques in the yogic texts:
+1. **Spontaneous symptoms** that arise naturally during awakening (e.g. spine jolts, mudras not previously learned)
+ 2. **Deliberate practices** that can be taught and learned to create conditions for facilitating awakening (sadhanas, Khecari mudra)
+ 3. **Hybrid phenomena** that can arise spontaneously OR be deliberately cultivated (mula bandha, sahajoli mudra)
+
+The texts don't clearly label which is which.
+Is this describing what happened *to* the yogi?
+Or is this prescribing what the yogi *did*?
+
+I once thought they fell into the second bucket—practices discovered by trial and error. But from my experience, the more I've followed deliberate practices, the more I've seen spontaneous symptoms and hybrid phenomena arise.
+
+Yet, for some reason, the Khecari mudra popped into my head last night and made me question the entire framework of "When Being Becomes Doing, NOT the Other Way Around".
+
+Frustratingly, as I'm discovering more and more, the answer is that annoying koan of a slogan that might as well be a punchline at this point: **Both and Neither**.
+
+#TechnicallyMystic #FieldNotes #spiritualawakening 
+
+
+
+
+\newpage
+
+# **Field Note: I Just Doxxed Myself With Git**
+
+Posted: Jan 28, 2026
+
+---
+
+So far, I've been carefully maintaining separation between my professional identity and my mystical documentation.
+
+Then I committed to GitHub with the wrong SSH key (different laptop than I'm used to). My real identity showed up in the commit log for approximately two minutes before I:
+
+- **Panicked** (It felt like I’d just leaked a non-rotatable API token.)
+- **Rewrote git history**
+- **Force-pushed to main**
+- **Blocked my personal account**
+
+_"You must lose something every day."_ Today I lost anonymity.
+
+I'm realizing I'm still clinging to separation, still afraid to let the compartmentalization dissolve, still afraid of complete integration between the mystical and mundane. The engineer in me still desperately wants to "fix the build," even if the "build" is just spiritual documentation and the "bug" is accidental vulnerability.
+
+Even if God literally JUST told me to practice detachment.
+
+**Vairagya: 0 | Git Rebase: 1**
+
+I'll try again tomorrow.
+
+#TechnicallyMystic #FieldNotes #GitFail #Vairagya 
+
+
 
 \newpage
 
