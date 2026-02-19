@@ -810,6 +810,112 @@ So turn off the playlist. Sit in silence… and see what happens.
 
 \newpage
 
+# [On Being Half Right](https://technicallymystic.com/p/on-being-half-right)
+
+Subtitle: [Level 0: Technical] What a divided brain reveals about spiritual experience
+
+Posted: Mar 4, 2026
+
+---
+
+I feel like Prometheus if he stole the fire of the Burning Bush.
+
+It’s not God.
+
+It’s Creativity—the right hemisphere given voice through the left’s language.
+
+I’m not a psychologist.
+
+I’m not a neuroscientist.
+
+I’m someone who once let my left side run the show somewhere along the way. And not long ago, the show-runner got tired.
+
+## On left-dominance
+I’m becoming increasingly convinced the more research I do that spiritual experience is just right hemisphere activity in a left hemisphere dominant society.
+
+What surprised me is that I’m not the first person to posit this.
+
+British psychiatrist, philosopher, and neuroscientist [Iain McGilchrist](https://en.wikipedia.org/wiki/Iain_McGilchrist) spent 600 pages arguing in [The Master and His Emissary](https://en.wikipedia.org/wiki/The_Master_and_His_Emissary) that Western culture has been systematically tilting toward left hemisphere dominance since the Renaissance through the Reformation, the Enlightenment, the Industrial Revolution, and into now. Each era a little more analytical. A little more literal. A little more suspicious of exactly the kind of experience the mystics were pointing at.
+
+I haven’t read it yet. I’m about to.
+
+## On “exiting left”
+The topic of lateralization has been on my mind since I wrote a [post](https://technicallymystic.com/p/exit-left) a few weeks ago about perception and neuroanatomist [Jill Bolte Taylor](https://en.wikipedia.org/wiki/Jill_Bolte_Taylor)’s “stroke of insight” which completely altered how she perceived her sense of self as she lost functionality in her left hemisphere.
+
+Just yesterday, I was reading about how to actually _activate_ the right hemisphere. One method is to read, decode, or write highly ambiguous, poetic, or unfamiliar metaphors. Unlike literal language or common clichés—which the left hemisphere handles automatically—processing novel metaphors requires the broad associative networks of the right.
+
+What’s interesting is this would explain why spiritual and religious texts are written the way they are. Koans. Paradox. Symbolism. Poetry. Why the “Truth” is always described as ineffable:
+
+> *The Tao that can be spoken is not the eternal Tao.* — Tao Te Ching, Chapter 1
+
+The mystics, saints, and prophets weren’t being cryptic for the sake of it. Whether or not they were aware of it, they were engineering a left hemisphere bypass. The ambiguity was the whole point, a recurring pattern across traditions.
+
+But engaging with esoteric texts isn’t the only method to activate the right hemisphere.
+
+## You have two names
+Last night I felt myself being called to put down _Everything_ before collecting the missing 2% of things in the game (as the completionist in me wanted) to go sit at my cushion.
+
+Based on my research of ways to quiet the left hemisphere and activate the right, I decided to stack several methods simultaneously: open monitoring meditation, blocking the right nostril for left-nostril breathing only, and whispering one word rapidly on repeat the entire time.
+
+This is what happened:
+
+> *My eyes rolled up into my head on their own and I had a realization: [My name] is the name of the left hemisphere. “I Am” is the name of the right.*[1] — Field Note, March 3, 2026
+
+The experiencer has a name. You just forgot it.
+
+## My experience
+Somewhere along the line, my right hemisphere skills atrophied.
+
+I stopped making art before college. I became increasingly analytical as a coping mechanism—compensating for the shock of actual difficulty when computer science, engineering, and calculus hit me all at once. I pushed deeper into the left side until I became alienated from who I even was and what I wanted outside of my career.
+
+Then I burned out.
+
+And since then? I’ve been unwittingly reconnecting with the alienated half.
+
+Through meditation.
+
+Through imagination.
+
+Through repetition.
+
+Through poetry.
+
+Through stories.
+
+And now—this Substack.
+
+I have a sabbatical coming up where I intend to test this hypothesis directly: *that starving the left while feeding the right will produce more of what the traditions called mystical experience.* I’ll be doing a 10-day silent retreat followed immediately by a 10-day dark retreat at Hridaya Yoga in two months.
+
+We’ll see what comes out of the dark.
+
+Technically is my ego.
+
+Mystic is my soul.
+
+And I’m trying not to lose either of them in the process.
+
+## P.S.
+After the meditation, the realization, and most of this post was drafted, I went back to the _Everything_ game and found these quotes waiting for me before the rest of the achievements in the game somehow unlocked without me really doing much of anything:
+
+> There are two inseparable halves, the object—which has divided itself into everything through space and time, and the subject perceiving it, which is not in space or time, but only in the present. Every idea of the world dies along with every subject of it.
+
+> I’ve given up trying to prove I exist. The proof will be gone soon enough. All I have is myself.
+
+> Above me is a watery abyss of no definite form, which can hold my stare forever. It’s me looking at me.
+
+> We will continue on our paths as long as we exist here. They might never cross again, or I might see you a thousand more times. You might forget this moment for the rest of your life, or you might have forgotten it already. In any case, you should know that I love you.
+
+![](https://substackcdn.com/image/fetch/$s_!7mhq!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F80975b07-a824-46a5-8d17-8307a39466ea_940x528.jpeg)
+
+*Caption: I turned to this game which was running in the background as I was finishing up this post to grab a screenshot for the post photo. This quote popped up immediately.*
+
+Make of that what you will. But I highly recommend this game.
+
+## Footnotes
+[1] Taylor locates “I am” in the left hemisphere as the ego asserting separation. What I experienced as “I Am” is its opposite—a sense of Being before identity arises, before a name or label is attached to beingness.
+
+\newpage
+
 # Level 1 - Transitional
 
 The messy middle where practice deepens and strange experiences begin to arise. For seekers who've noticed meditation no longer feels like simple stress relief.
@@ -2257,6 +2363,265 @@ The Field Note: [The Answered Ultimatum](https://substack.com/@technicallymystic
 [3] [Part 2: Atheist to Mad Mystic... in 2.5 Years](https://technicallymystic.com/p/part-2-atheist-to-mad-mystic-in-25)
 
 [4] [ Part 1: The Trojan Horse of Meditation](https://technicallymystic.com/p/part-1-the-trojan-horse-of-meditation)
+
+\newpage
+
+# [Exit Left](https://technicallymystic.com/p/exit-left)
+
+Subtitle: [Level 1: Transitional] What happens when the analytical mind stops interpreting the data
+
+Posted: Feb 18, 2026
+
+---
+
+![](https://substackcdn.com/image/fetch/$s_!0GRQ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3867dbb0-f00c-4881-bd5b-09ac650c97d9_1000x563.png)
+
+*Caption:"Perception IS Reality" — Superliminal*
+
+---
+
+I finished a video game at midnight and was up until 2 AM crying. Not because it was sad. Because it struck a nerve.
+
+*Superliminal* is a puzzle game from 2019—surreal, funny, reminiscent of *The Stanley Parable*. The core mechanic is that the size of objects is determined entirely by how you look at them. Pick something up close and it becomes enormous. View it from a distance and it shrinks. Change your position in space and solutions appear that were completely invisible two feet to the left.
+
+I played for hours finding solutions hidden in plain sight and other easter eggs. But then the final two levels landed the entire game's message—about how people get stuck, how hopelessness is often just a fixed perspective mistaken for reality—and something in me broke open.
+
+I was exhausted after a long day, but went to my cushion at 1 AM and grieved. For myself. For everyone I know who is suffering inside a perception they can't see past. For humanity collectively, pressing against the same walls, unable to conceive that the room might look completely different from a different angle.
+
+I cried for an hour before eventually going to sleep.
+
+In the stillness the next morning, something arrived that I hadn't been looking for: the realization that the illusions of the game and those of our daily life aren't so different.
+
+## The voice that runs the show
+There's a part of you narrating this sentence right now.
+
+It's the voice that says "I am". The voice that knows your name, your job title, your history, your fears. The voice that maintains the story of a separate, continuous self moving through time—making choices, taking credit, assigning blame.
+
+This is the ego. Not in the psychological sense of arrogance, but in the original sense: the *sense of doership*. The feeling that there is a "you" who is doing things, rather than a perspective of awareness watching things unfold.
+
+It feels like the whole of you. But consider what it doesn't control:
+
+Is it you who digests your food?
+Is it you who heals your bruise?
+Is it you who beats your heart?
+
+Is that the same "you" choosing what to wear in the morning?
+
+How would you know you're not unconsciously fabricating a story about your choices, layering a sense of "I, the decider" over processes that were already in motion?
+
+[Neuroscience suggests this is exactly what is happening.](https://www.psychologytoday.com/us/blog/mind-brain-and-value/202008/psychology-the-left-hemisphere-the-brains-interpreter)
+
+## What *Superliminal* understood
+The game's narrator puts it plainly:
+
+> "More often than not, the problem is not that the problems we face can't be solved. The problem is that we become so afraid of failure that we refuse to see our problems from a new perspective—and so we do the same things again and again and again. And therein of course, we find exactly the failure we were looking for." — Dr. Glenn Pierce
+
+The analytical mind locks in a perspective and calls it reality. And the most common perspective it locks in is limitation—the sense of a small, separate "me" in relation to everything else, managing, striving, failing, trying again.
+
+When that perspective is fixed, suffering becomes invisible to itself. It doesn't know it's a perspective. It thinks it's just *the way things are.*
+
+## What a stroke revealed
+[Dr. Jill Bolte Taylor](https://drjilltaylor.com/) is a Harvard-trained and published neuroanatomist, whose research specializes in **understanding how our brain creates our perception of reality**.
+
+In 1996, she suffered a massive hemorrhage in the left hemisphere of her brain. Over the course of four hours, she lost language, memory, and the sense of herself as a separate person. She later gave a [TED Talk](https://www.youtube.com/watch?v=UyyjU8fzEYU) and [wrote a book](https://www.goodreads.com/work/quotes/137242-my-stroke-of-insight) about what she experienced from the inside.
+
+![](https://substackcdn.com/image/fetch/$s_!Vg7V!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4a9fa68-8ca3-467f-a6ca-ae0cae3cfa47_1200x675.jpeg)
+
+*Caption: Dr. Taylor presenting her TED Talk, explaining how the right hemisphere functions like a parallel processor in a computer.*
+
+On the left hemisphere—the one she was losing:
+
+> "It's that little voice that says to me, "I am. I am." And as soon as my left hemisphere says to me "I am," I become separate. I become a single solid individual, separate from the energy flow around me and separate from you. And this was the portion of my brain that I lost on the morning of my stroke."
+
+On what remained when it went quiet:
+
+> "My brain chatter went totally silent. Just like someone took a remote control and pushed the mute button—total silence. And at first I was shocked to find myself inside of a silent mind. But then I was immediately captivated by the magnificence of energy around me. Because I could no longer identify the boundaries of my body, I felt enormous and expansive. I felt at one with all the energy that was. And it was beautiful there."
+
+A Harvard brain scientist accidentally lost her left hemisphere and described what mystics have been pointing at for centuries.
+
+The ego isn't you. It's half of you. And it's been doing all the talking.
+
+## What arose from the silence
+I didn't need a stroke to glimpse what Taylor described. I just had to sit still long enough for the narrator to go quiet.
+
+The following arrived in meditation about 3 weeks before I played the game, before I'd read a single word of Taylor's work:
+
+> *The body was always moving on its own—we just thought we were moving it. When conscious thoughts stop, the body still moves. Thoughts are fast, but not faster than the body. Thoughts can hijack the body, but the body knows how to move on its own.* — Journal Entry, January 30, 2026
+
+The intelligence that knows how to run your heart also knows how to move your body. The narrator just takes the credit.
+
+## What this costs us
+This is why I was crying at 1 AM.
+
+Not because any of this is new information. But because of what it means that most people will never encounter it—that most will live their entire life inside a fixed perspective, staring at walls like a cage because it was assumed that they were solid on all sides.
+
+The suffering caused by fixed perception is not a small thing. It is the texture of most human lives—the anxiety that won't lift, the hopelessness that feels permanent, the sense of being trapped in a story you didn't choose and can't escape.
+
+And the exit isn't complicated. It's just unfamiliar.
+
+Dr. Taylor says it plainly at the end of her TED Talk:
+
+> "We have the power to choose, moment by moment, who and how we want to be in the world. Right here, right now, I can step into the consciousness of my right hemisphere where we are — I am — the life force power of the universe, and the life force power of the 50 trillion beautiful molecular geniuses that make up my form. At one with all that is. Or I can choose to step into the consciousness of my left hemisphere, where I become a single individual, a solid, separate from the flow, separate from you."
+
+The game said it too, in its final moments:
+
+> "In a few minutes, you'll be back in the real world, and some part of you will say that none of this was real. So how could it have meant anything? But—just like the power of perspective itself—it will have been as real as you believed it to be. All you've got to do is wake up."
+
+I'm still sitting with the grief. I don't think it goes away.
+
+But I'm also sitting with this: the exit exists. It has always existed. It's just two feet to the left of where you're standing.
+
+\newpage
+
+# [The Kitten and the Monkey](https://technicallymystic.com/p/the-kitten-and-the-monkey)
+
+Subtitle: [Level 1: Transitional] What if you're too tired to awaken?
+
+Posted: Feb 24, 2026
+
+---
+
+I was lying face-down on my mat, too exhausted to even sit upright.
+
+Two feet of snow.
+
+Eight hours without power in single-digit temps.
+
+Days alone in a house that got down to 51°F.
+
+Shoveling everything solo while my spouse was somewhere warm.
+
+The final straw? [Realizing a framework that felt like a revelation a couple months ago had a flaw.](https://substack.com/@technicallymystic/note/c-206706217) Because if that was wrong, what _else_ was I wrong about?
+
+I spiraled. Thought about deleting the Substack. Then I just felt it—the bone-deep exhaustion of it all. Emotionally (from surviving the coldest week of winter so far), physically (from shoveling), mentally (from work), and spiritually:
+
+> _I don’t want to be in the messy middle. I’m already tired, God._
+
+![A sleepy kitten falling over from being too tired to sit upright anymore](https://substackcdn.com/image/fetch/$s_!-XTy!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe365879f-3b8d-427d-94c0-661846de1639_397x309.gif "A sleepy kitten falling over from being too tired to sit upright anymore")
+
+How I felt trying to sit upright to meditate
+
+But I didn’t want to stop either:
+
+> _I can’t awaken if I’m lying down to rest._
+
+Then I was promptly proven wrong.
+
+I’d collapsed into a franken-asana—reclined bound angle (_supta baddha konasana_) but prone on props, forehead resting on hands with arms in crocodile (_makarasana_). The relief was immediate once I stopped resisting the fact that I needed an emotional and physical reset.
+
+My mind finally surrendered because I was too tired to do anything else. My heart was still clinging—still devoted—but I stopped trying to make it happen.
+
+Then strong jolting kriyas started. The kind I thought required sitting upright, both from what I learned from Dr. K and from everything I’d experienced... up until that point.
+
+Apparently there are caveats.
+
+Thank God for that. Because if that’s true? Then there _is_ samadhi for the rest of us.
+
+## The false dichotomy
+Most spiritual teachings imply you have to choose between being disciplined and effortful (active striving) OR surrendering (passive trust).
+
+Either you’re the baby monkey clinging to its mother with its own strength as she leaps through trees OR you’re the kitten going limp while she carries you in her mouth.
+
+Either you _earn_ your awakening through years of dedicated practice OR you surrender and let grace do the work.
+
+Pick one. Commit. Don’t try to have it both ways.
+
+This binary showed up in 13th-century Sri Vaishnavism debates. The Vadakalai school argued for “Monkey Logic”—human effort is necessary to cling to God’s grace. The Thenkalai school argued for “Kitten Logic”—grace is spontaneous and requires only total surrender.
+
+They argued for centuries about which path was “correct.”
+
+But what if they were both right—just talking about _different parts of the system_?
+
+What if the heart and mind have _different jobs_ in awakening, and the mistake is trying to make them do each other’s work?
+
+That’s what I discovered after almost 4 years of accidentally jury-rigging my own practice without reading the manuals.
+
+## Monkey logic
+Back when I first started meditating in April 2022, I didn’t know about “the way of the baby monkey” (_Markata Kishora Naya_), but I was living it.
+
+The path of _raja yoga_ that I learned from HealthyGamer—disciplined, effortful, taken for years diligently (Dr. K had spent 7 years in monk training)—falls squarely into this category.
+
+It means:
+
+- It’s on YOU to meditate regularly.
+- It’s on YOU to learn the techniques.
+- It’s on YOU to be disciplined.
+- It’s on YOU to earn your way to “enlightenment”.
+
+The baby monkey clings with its own strength. If it lets go? It falls.
+
+![](https://substackcdn.com/image/fetch/$s_!Z7vL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0ef7748-fd9e-441c-b092-e88250c224c6_634x449.jpeg)
+
+This is incredibly demanding. It’s the hardest thing you can do in this life because it requires _everything_. It requires _clinging to the path_ above all else. It can’t just be a hobby you pick up and put down—it’s a _lifestyle_.
+
+Loosen your grip? You’re back to the old patterns.
+
+This is all too easy when you’re already tired. Tired from work. Tired from family. Tired from just being a human in the modern world where every ounce of productivity is squeezed out of us until we’re husks of our old selves.
+
+When you’re at the end of the rope like this? You’re often forced to rest.
+
+That’s when the second path appears.
+
+## Kitten logic
+The “way of the kitten” (_Marjara Kishora Nyaya_) is what can arise once the striver dies and surrender begins—once the baby monkey stops needing to cling so tightly anymore.
+
+It’s _passive_, _effortless_, and _requires surrender_... like how a kitten simply goes limp while the mother carries it with her own strength.
+
+![](https://substackcdn.com/image/fetch/$s_!K-Qu!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F79baf06e-a612-472a-9a0b-3a602ef4258a_650x433.jpeg)
+
+This is what I accidentally discovered AFTER spending so long clinging, striving, and trying to _earn_ my peace instead of just... resting into it.
+
+The texts point to this:
+
+#### Yoga Sutras 1.2
+
+> _“Yogas Chitta Vritti Nirodha”_
+
+Translation: “Yoga is the cessation of the fluctuations of the mind.”
+
+**Not**: “Yoga is the relentless effort to stop the fluctuations.”
+
+Cessation. Letting go.
+
+#### Tao Te Ching, Chapter 48
+
+> _“In the pursuit of learning, every day something is acquired._
+> _In the pursuit of Tao, every day something is dropped.”_
+
+Awakening is “pursuit of Tao”, which requires dropping, not adding. Letting go.
+
+## They’re not mutually exclusive
+Here’s the kicker: these paths aren’t opposing forces. They’re _complementary operations happening simultaneously._
+
+The “path of the kitten” is meant for the mind.
+
+The “path of the monkey” is meant for the heart.
+
+When you first start meditating, everything is effort. Your mind is trying to focus. Your heart hasn’t connected to anything yet. You’re purely in monkey mode—clinging to the breath or mantra, clinging to the technique, clinging to the idea that if you just _try hard enough_, something will happen.
+
+This is necessary. This is _raja yoga_—the disciplined path. Without this, nothing ignites.
+
+But somewhere along the way, if you keep showing up, something shifts. The heart catches fire. Devotion arises—not as something you _do_, but as something that _happens to you_. [You fall in love with the Divine](https://technicallymystic.com/p/something-no-one-told-me-about-meditating), with the Silence, with the Presence that shows up when you sit.
+
+This is _bhakti_. And [bhakti naturally clings](https://technicallymystic.com/p/how-bhakti-chooses-you)—naturally cleaves to God.
+
+The heart doesn’t need instructions to cling. It clings on its own once devotion awakens.
+
+_**The mistake is when the mind tries to do the heart’s job.**_
+
+When the mind clings—trying to control the experience, trying to make something happen, trying to _earn_ awakening through sheer force of will—it creates the exact tension that blocks the flow.
+
+The mind’s job isn’t to cling. The mind’s job is to _surrender_—to go limp like a kitten in its mother’s mouth and let the heart’s devotion carry it.
+
+## What I’m slowly learning
+- You can’t _do_ your way to _being_.
+- You can’t _strive_ your way to _surrender_.
+- You can’t _exhaust_ yourself into _awakening_.
+
+The trying is the obstacle. While it helps at the start, once the flame ignites and the heart naturally clings on its own, the rest is simply _rest_.
+
+Liberation isn’t waiting at the end of the path; it’s what shows up when you’re too tired to keep walking.
+
 
 \newpage
 
@@ -4162,7 +4527,7 @@ Categorization boxes experience into concept and files it away.
 
 To cage the holy is to starve the soul.
 
-To label is limit.
+To label is to limit.
 
 To define is to confine.
 
@@ -4192,6 +4557,83 @@ Nothing.
 
 We *are* It.
 
+
+\newpage
+
+# [In Such a Void](https://technicallymystic.com/p/in-such-a-void)
+
+Subtitle: [Level 3: Union] ...
+
+Posted: Feb 15, 2026
+
+---
+
+> *The ecstasy of non-existence...*
+> *The Plane where words fail because there are none to speak, none to hear...*
+> *Where infinity vibrates with possibility.*
+> *And possibility vibrates with infinity.*
+> *The place we go deeper than dreamless sleep...*
+> *Where senses dissolve, and with it all experience, all existence, all memory, all thought, all emotion, even awareness itself...*
+> 
+> *In such a Void I fear no death.*
+> *In such a Void I know nothing. I am nulliscient.*
+> *In such a Void, I have no power. I am nullipotent.*
+> *In such a Void, I am nowhere. I am nullipresent.*
+> *My awareness seems to be the shadow of God Himself if such a concept were to exist in this realm of non-existence.*
+> 
+> *Before "I am",*
+> *There is…*
+> *…*
+> *..*
+> *.*
+> 
+
+-- Journal Entry, October 15, 2025
+
+\newpage
+
+# [Transmissions from the Silence 2](https://technicallymystic.com/p/transmissions-from-the-silence-2)
+
+Subtitle: [Level 3: Union] What arises when the mind stops asking
+
+Posted: Feb 18, 2026
+
+---
+
+**See also:**  [Transmissions from the Silence](https://technicallymystic.com/p/transmissions-from-the-silence)
+
+---
+
+### October 4, 2025:
+
+> Not by effort.
+By grace through acceptance.
+
+### October 6, 2025:
+
+> “Knowing” feels exactly like not knowing.
+
+### October 13, 2025:
+
+> Do not try to listen.
+Just listen.
+Listening is happening on its own.
+
+### January 27, 2026:
+
+> You have to give God everything. You have to give it all to him. You have to let go. This is vairagya—detachment. To worries, to outcomes, to fears. You must lose something every day. Don't let it be your soul.
+
+### February 9, 2026:
+
+> You cannot earn Me. You cannot lose Me. I Am.
+
+### February 18, 2026:
+
+> Sit until all questions dissolve; the answer will arise.
+
+---
+
+The Voice continues. So will the transmissions.
 
 \newpage
 

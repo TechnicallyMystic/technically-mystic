@@ -12,7 +12,7 @@ Categorization boxes experience into concept and files it away.
 
 To cage the holy is to starve the soul.
 
-To label is limit.
+To label is to limit.
 
 To define is to confine.
 
