@@ -3625,6 +3625,116 @@ Which of the three is true for you?
 
 \newpage
 
+# [You Are Here; I Am Not](https://technicallymystic.com/p/you-are-here-i-am-not)
+
+Subtitle: [Level 2: Mystical] The painting I can't finish for the same reason I can't finish dissolving
+
+Posted: Mar 28, 2026
+
+---
+
+I got my first sabbatical assignment during sound bath—a painting. Two weeks. Don’t let the spark fade. I’d seen what happens when I wait too long.
+
+So that Saturday I went to Michael’s to get what I could, ordered the rest of the supplies online, and got to work on the most ambitious painting I’d made since high school AP Art burned me out on it entirely.
+
+The materials were specific. Musou Black—an ultra-black pigment that absorbs up to 99.4% of visible light—on a large square gallery canvas—36” x 36”. Four layers of black gesso, sanded between coats to create a smooth surface. Two layers of Musou. Then iridescent acrylics for everything surrounding the figure.
+
+One substance that eats light. One that plays with it.
+
+The image that came through: a human silhouette, floating amongst the cosmos. Me, meditating, as a Void.
+
+The title arrived with it: _You Are Here. I Am Not._
+
+![](https://substackcdn.com/image/fetch/$s_!a-v_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4aeec146-50f3-4d72-81b7-7c6ff33905dd_2958x2961.jpeg "A square painting featuring a solid, deep matte black silhouette of a person floating diagonally in the center. The figure is set against a dense, vibrant cosmic background filled with countless stars and detailed spiral and elliptical galaxies in shades of orange, blue, purple, and white. The stark void of the central figure creates a powerful contrast against the intricate, glowing detail of the surrounding universe.")
+
+---
+
+It’s finished. It’s also not.
+
+The unfinished part isn’t technical. It’s the edges of the figure—and I can’t resolve them because I can’t answer what they’re supposed to show:
+
+_Do I leave the hard division—the self as defined boundary, a void that blocks rather than receives?_ This is how it feels on the hard days.
+
+_Do I soften the edges, showing dissolution in progress?_ This feels true to where I actually am. But it requires admitting I’m mid-process.
+
+_Do I fill the figure in entirely—let the self disappear into the cosmos?_ The most terrifying option. This also feels aspirational or intellectual at best, a lie at worst because I’m still here writing this.
+
+The painting stays unfinished in exactly the way I am.
+I’m hoping the dark retreat answers it. I’m going in not to find myself.
+I’m going to lose myself.
+
+Which of the three is true for you?
+
+## Bonus pics
+
+![](https://substackcdn.com/image/fetch/$s_!LXsX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F042b9040-6f00-4b30-967a-c6a2a559749c_4080x3072.jpeg)
+
+*Caption: The dried canvas covered with 2 layers of light-eating Musou Black*
+
+![](https://substackcdn.com/image/fetch/$s_!H4go!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F60d0335e-d7d9-47c2-82c7-0ef08000e922_2733x4080.jpeg)
+
+*Caption: The painting viewed from the left to show iridescence*
+
+![](https://substackcdn.com/image/fetch/$s_!otDU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe4db22c-3073-4134-a438-74df67822b1a_2737x4080.jpeg)
+
+*Caption: The painting viewed from the right to show iridescence*
+
+\newpage
+
+# [Void-Walker](https://technicallymystic.com/p/voidwalker)
+
+Subtitle: [Level 2: Mystical] A walking meditation on life and death
+
+Posted: Apr 3, 2026
+
+---
+
+I went back to walk in the cemetery, once again trying to contemplate death. I walked for 30 minutes, taking a few moments to gaze down at the custom wrist mala I made yesterday in preparation for the dark retreat—the Void-Walker’s Compass.
+
+![Hand holding a handmade meditation mala with indigo gabbro and labradorite beads, silver spacers, and gray tassel - the Void-Walker's Compass](https://substackcdn.com/image/fetch/$s_!1WKM!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb52e9d78-5289-48a6-92fa-60aa60d9aed0_3072x4080.jpeg "Hand holding a handmade meditation mala with indigo gabbro and labradorite beads, silver spacers, and gray tassel - the Void-Walker's Compass")
+
+*Caption: Indigo gabbro, labradorite, and silver on a nylon cord*
+
+Yet still, I felt nothing regarding the cemetery, as if death was too abstract to contemplate. My mind would not let me confront its meaning and implications for life.
+
+So I started to breath deeply and slowly. The following prayer came to me that I recited within myself as I let myself ease open to receptivity.
+
+_Ancestors,_  
+_Spirits of the dead,_  
+_Please grant me your wisdom,_  
+_That it may guide forward._  
+_May I receive your loving guidance._
+
+I then closed with:  
+_I am but a stranger in a strange land._  
+_Let it teach me._
+
+I then learned how to “void-walk”...I did so for an hour. I wandered with my eyes nearly shut, only opening to greet others. I also learned how to perform a walking meditation, realizing how good walking felt when drastically slowed down to savor every step, the smooth motion of the legs and lower back muscles rocking in a leisurely cadence. I had always been walking to get somewhere, even when on a walk or hike until this very day.
+
+I don’t know where the time went. When I opened my eyes, the trees seemed to glow with life. The world looked beautiful. I saw the blue sky, the vibrant grass, the sun and wind on my face. I saw the birds and started to identify them, the thing I found joy in doing as a young child. Grackles. Robins. ...A bluebird?
+
+![Bare tree reaching toward blue sky in a peaceful cemetery, tombstones scattered beneath its branches on Good Friday](https://substackcdn.com/image/fetch/$s_!fXUa!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc74c6b22-0f28-4f11-817d-1352157a23c2_4080x3072.jpeg "Bare tree reaching toward blue sky in a peaceful cemetery, tombstones scattered beneath its branches on Good Friday")
+
+The wisdom received? Appreciate the now, find the profound in the mundane, slow down, and take it in.
+
+The pleasure of walking? Most of them missed it dearly at the end.
+
+A miracle happened this good Friday at the cemetery. I didn’t see just the tombstones. I saw the life within and beyond them. So the dead told me to walk more.
+
+They don’t speak in words. They communicate in your understanding. They all arise and dissolve into your subconscious, the collective subconscious, the unseen, the Void.
+
+“Now go and live!”  
+And I was sent on my way home.
+
+## P.S.
+I stopped by the beach on the way and climbed onto a tall, dry, slanted rock near the end of the jetty.
+
+And as I gave my legs a rest and stretched my lower back, I gazed down at what lied beneath my dangling feet. Glimmering stones, sparklingly water, shells and pebbles, rocks and sand and glistening seaweed. And I see Life is dancing before me, Its energy making love to my consciousness. This must be what it feels like to be alive.
+
+Also I drafted this from my notes while still sitting on the jetty.
+
+\newpage
+
 # Level 3 - Union
 
 Welcome to the Mystics Inc. Space Division.
