@@ -27,8 +27,8 @@ process_files \
 rm -f TechnicallyMystic-v*.pdf
 
 # Run through Pandoc
-pandoc <(sed -e "s/VERSION_TAG/$(cat VERSION)/" -e "s/DATE/$(date +'%B %Y')/" metadata.yaml) manuscript.md \
+pandoc <(sed -e "s/VERSION_TAG/$(date +'%Y-%m-%d.0')/" -e "s/DATE/$(date +'%B %Y')/" metadata.yaml) manuscript.md \
        -f markdown \
        -H hack/header.tex \
        -V geometry:margin=1.5in \
-       -o TechnicallyMystic-v$(cat VERSION).pdf
+       -o TechnicallyMystic-v$(date +'%Y-%m-%d.0').pdf
