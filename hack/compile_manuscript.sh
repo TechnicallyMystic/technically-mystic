@@ -21,6 +21,7 @@ process_files \
               Level-1/*.md \
               Level-2/*.md \
               Level-3/*.md \
+              Level-Null/*.md \
               Field-Notes/*.md > manuscript.md
 
 # Clean up old PDF
