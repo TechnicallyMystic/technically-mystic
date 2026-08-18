@@ -5094,6 +5094,52 @@ Lay yourself to rest—the illusion that you are, all that you thought you were,
 
 \newpage
 
+# [Clarity](https://technicallymystic.com/p/clarity)
+
+Subtitle: [Level 3: Union] ...
+
+Posted: July 9, 2026
+
+***
+
+Holy Negative Space!
+
+I am every HERE.
+I am every WHERE.
+
+But then "I" dissolved.
+
+Everything became clear.
+
+**The opposite of darkness is not light.**
+
+**It's clarity.**
+
+Then the singing heartbeat of the drums crystalized my body.
+
+And I found myself drowning in God.
+
+\newpage
+
+# [God Is In The Silence](https://technicallymystic.com/p/god-is-in-the-silence)
+
+Subtitle: [Level 3: Union] ...
+
+Posted: August 16, 2026
+
+***
+
+*God's voice is so beautiful that I cannot hear it,*
+*As the sun is so bright that I cannot see it.*
+*The wind, His sigh over me.*
+*Words grasp, but He is found in release.*
+*Sound so pure that the glass of "I" shatters.*
+*The vessel broken, the vessel filled, the vessel empty.*
+*The shining gate of awareness before me.*
+*Yet God is in the Silence, not in what I see.*
+
+\newpage
+
 # [Level Null](https://technicallymystic.com/s/level-null)
 
 ---
