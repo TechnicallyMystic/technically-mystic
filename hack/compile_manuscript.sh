@@ -17,6 +17,7 @@ process_files() {
 process_files \
 	      FRONTMATTER.md \
 	      INTRODUCTION.md \
+	      Home/*.md \
               Level-0/*.md \
               Level-1/*.md \
               Level-2/*.md \

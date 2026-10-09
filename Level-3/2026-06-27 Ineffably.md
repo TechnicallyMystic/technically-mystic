@@ -1,6 +1,6 @@
 # [Ineffably](https://technicallymystic.com/p/ineffably) 
 
-Subtitle: [Level 3: Union] ...
+Subtitle: [Level 3: Union]
 
 Posted: June 27, 2026
 

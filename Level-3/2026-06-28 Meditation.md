@@ -1,6 +1,6 @@
 # [Meditation](https://technicallymystic.com/p/meditation)
 
-Subtitle: [Level 3: Union] ...
+Subtitle: [Level 3: Union]
 
 Posted: June 28, 2026
 

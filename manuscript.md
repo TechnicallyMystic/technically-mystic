@@ -278,6 +278,35 @@ May they help you find your way.
 
 \newpage
 
+# [Who Am I](https://technicallymystic.com/p/who-am-i)
+
+Posted: Oct 8, 2026
+
+***
+
+I stirred when I turned inward and asked: *"Who am I?"*
+Not "What am I?"
+Not "Why am I?"
+But *"Who am I?"*
+
+And then the *Who*, the *What*, and the *Why* collapsed inwards onto themselves:
+*I*
+*Am*
+...
+*(The word does not come.)*
+
+Collapsing further: the When and Where into *Now* and *Here*.
+
+Collapsing...
+
+To the beginning.
+
+The backdrop of everything.
+
+*(The words... gone...)*
+
+\newpage
+
 # [Level 0 - Technical](https://technicallymystic.com/s/level-0-technical)
 
 Burnout, skepticism, and the rational analysis of spiritual phenomena. This is where I try to make sense of the “woo” without losing my grounding.
@@ -5040,7 +5069,7 @@ The Voice continues. So will the transmissions.
 
 # [What Is](https://technicallymystic.com/p/what-is)
 
-Subtitle: [Level 3: Union] ...
+Subtitle: [Level 3: Union]
 
 Posted: June 26, 2026
 
@@ -5058,7 +5087,7 @@ Selflessness... the slate wiped clean of concept, preference, memory. A pure flo
 
 # [Ineffably](https://technicallymystic.com/p/ineffably) 
 
-Subtitle: [Level 3: Union] ...
+Subtitle: [Level 3: Union]
 
 Posted: June 27, 2026
 
@@ -5077,7 +5106,7 @@ My God... all words fail to serve You. Let me serve You with my being.
 
 # [Meditation](https://technicallymystic.com/p/meditation)
 
-Subtitle: [Level 3: Union] ...
+Subtitle: [Level 3: Union]
 
 Posted: June 28, 2026
 
@@ -5096,7 +5125,7 @@ Lay yourself to rest—the illusion that you are, all that you thought you were,
 
 # [Clarity](https://technicallymystic.com/p/clarity)
 
-Subtitle: [Level 3: Union] ...
+Subtitle: [Level 3: Union]
 
 Posted: July 9, 2026
 
@@ -5121,9 +5150,9 @@ And I found myself drowning in God.
 
 \newpage
 
-# [God Is In The Silence](https://technicallymystic.com/p/god-is-in-the-silence)
+# [The Silence](https://technicallymystic.com/p/god-is-in-the-silence)
 
-Subtitle: [Level 3: Union] ...
+Subtitle: [Level 3: Union]
 
 Posted: August 16, 2026
 
@@ -5137,6 +5166,36 @@ Posted: August 16, 2026
 *The vessel broken, the vessel filled, the vessel empty.*
 *The shining gate of awareness before me.*
 *Yet God is in the Silence, not in what I see.*
+
+\newpage
+
+# [His Gaze](https://technicallymystic.com/p/his-gaze)
+
+Subtitle: [Level 3: Union]
+
+Posted: September 3, 2026
+
+***
+
+The concept of God
+Does not make me tremble
+In awe or fear;
+Eye contact does.
+
+So I decided
+To make eye contact
+With Him.
+
+Unbroken.
+Yet it was I who broke.
+
+His Gaze became mine
+I saw my life
+Lived, loved
+Though the Eyes of Eternity.
+
+Prolonged.
+Unbroken.
 
 \newpage
 
