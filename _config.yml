@@ -1,5 +1,12 @@
+title: Technically Mystic
+description: An engineer's field notes on accidental spiritual awakening, from burnout to mystical union. For seekers who still have day jobs.
+url: https://technicallymystic.github.io
+baseurl: /technically-mystic
+lang: en
+
 remote_theme: just-the-docs/just-the-docs
+color_scheme: dark
+
 plugins:
   - jekyll-remote-theme
-color_scheme: dark
-title: Technically Mystic
+  - jekyll-seo-tag
